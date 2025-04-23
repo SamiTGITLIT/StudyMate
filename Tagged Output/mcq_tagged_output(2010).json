@@ -1,0 +1,1480 @@
+[
+  {
+    "question": "Which of the following tools is used by a biologist to study the internal anatomy of experimental animals?",
+    "options": [
+      "A Dicecting kit",
+      "B Hand lens",
+      "C Petri dish",
+      "D Microscope"
+    ],
+    "units": [
+      "Grade 9: Biology and Technology",
+      "Grade 9: Cell Biology",
+      "Grade 9: Environment",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Tools and equipment in biology",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of an enzyme?",
+    "options": [
+      "A It is a globular protein",
+      "B It functions as a catalyst",
+      "C It lowers the energy of activation",
+      "D It converted to products"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Enzymes",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Enzyme functions and properties",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Who was the first person who believed to have seen moving cells under a microscope?",
+    "options": [
+      "A Robert Hooke",
+      "B Rene Dutrochet",
+      "C Anton van Leeuwenhoek",
+      "D Theodor Schwann"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 9: Cell Biology",
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 11: Cell Biology"
+    ],
+    "topic": "History of cell biology",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Why do micro-organisms decompose dead organic matters?",
+    "options": [
+      "A To release mineral nutrients for the plants",
+      "B To clean up the ecosystem",
+      "C To drive energy for their own uses",
+      "D To keep the balance of atmospheric gases"
+    ],
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 10: Conservation of Natural Resources",
+      "Grade 12: Microorganisms",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Role of microbes in ecosystems",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "The practice of modern agriculture that reduces crop biodiversity is:",
+    "options": [
+      "A Overgrazing",
+      "B Forest clearing",
+      "C growing land races",
+      "D growing few high yielding varieties"
+    ],
+    "units": [
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 10: Conservation of Natural Resources",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Agricultural practices and biodiversity",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "What dose an enzyme do to a chemical reaction that allows it to proceed optimally?",
+    "options": [
+      "A It lower the required activation energy .",
+      "B It increases the amount of the substrate.",
+      "C It increases the required activation energy .",
+      "D It modifies both the Ph and the temperature."
+    ],
+    "units": [
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Enzyme mechanisms",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following is lacking in prokaryotic cells?",
+    "options": [
+      "A Cytosol",
+      "B Ribosome",
+      "C DNA strand",
+      "D Cellulose"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Prokaryotic cell structure",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "What is the name of a major group of eukaryotic organisms that obtain their nutrition using extracellular digestion?",
+    "options": [
+      "A Viruses",
+      "B Bacteria",
+      "C Fungi",
+      "D Algae"
+    ],
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Eukaryotic organisms and nutrition",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "What kind of nutrition do most of the decomposers have in general?",
+    "options": [
+      "A... Auto trophic nutrition",
+      "B... Saprobiotic nutrition",
+      "C... Endosymbiont nutrition",
+      "D... Chemosynthetic nutriton"
+    ],
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 11: The Human Body Systems",
+      "Grade 11: Population and Natural Resources",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Decomposition and Nutrient Cycling",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "To which genus of primates are the Neanderthal humans classified?",
+    "options": [
+      "A... The genus Ardipithecus",
+      "B... The genus Australopithecus",
+      "C... The genus homo",
+      "D... The genus Zinjanthropus"
+    ],
+    "units": [
+      "Grade 9: Classification",
+      "Grade 12: Behaviour",
+      "Grade 12: Evolution"
+    ],
+    "topic": "Classification of Homo sapiens and related species",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "In which of the following is there a MISMATCH between the type of innate behavior and the resulting action/response?",
+    "options": [
+      "A... Instinctive behavior- imprinting in birds",
+      "B... Reflex action- blinking of the eyes in humans",
+      "C... Instinctive behavior- Nest-building in birds",
+      "D... Presentational movement-weaving a web in spiders"
+    ],
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 12: Behaviour"
+    ],
+    "topic": "Innate Behaviors",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "Cells were first seen using the microscope by:",
+    "options": [
+      "A... Schleiden",
+      "B... Robert Hooke",
+      "C... Schwann",
+      "D... Leeuwenhoek"
+    ],
+    "units": [
+      "Grade 9: Cell Biology"
+    ],
+    "topic": "History of Cell Theory",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "The ultimate source of genetic variation is:",
+    "options": [
+      "A... Mutation",
+      "B... Migration",
+      "C... Genetic drift",
+      "D... Selection"
+    ],
+    "units": [
+      "Grade 11: Genetics",
+      "Grade 12: Genetics"
+    ],
+    "topic": "Genetic Variation",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following is the first step in starting a research process?",
+    "options": [
+      "A... Searching sources of information to locate problem.",
+      "B... Survey of related literature",
+      "C... Identification of problem",
+      "D... Searching for solution to the problem"
+    ],
+    "units": [
+      "Grade 9: Biology and Technology",
+      "Grade 11: Biology and Technology",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Scientific Research Process",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "For which of the following purpose is GLOBAL positioning system (GPS) used?",
+    "options": [
+      "A... Map of an area",
+      "B... Theodolite",
+      "C... Microwave",
+      "D... Satellite signal"
+    ],
+    "units": [
+      "Grade 9: Biology and Technology",
+      "Grade 11: Biology and Technology"
+    ],
+    "topic": "Technological Applications in Biology",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which of the following statement is INCORRECT with respect to an enzymes ability to catalyze a reaction?",
+    "options": [
+      "A... An enzyme provide a reaction surface and a hydrophilic environment for the reaction to take place .",
+      "B... An enzyme birds reaction such that they are positioned correctly and can attain their transition-state configurations.",
+      "C... An enzyme allows the reaction to go through a more stable transition state than would normally be the case.",
+      "D... An enzyme can weaken bonds in reactants through binding process"
+    ],
+    "units": [
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Enzyme Catalysis",
+    "bloom_level": "Analyzing"
+  },
+  {
+    "question": "The amount of organic matter present at a given time per unit area is called?",
+    "options": [
+      "A... Carbon sequestration",
+      "B... Standing crop",
+      "C... Carbon foot print",
+      "D... Productivity"
+    ],
+    "units": [
+      "Grade 11: Population and Natural Resources",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Ecological Measurements",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "In the energy pyramid, which group of organisms has least amount of energy?",
+    "options": [
+      "A... Primary producers",
+      "B... Tertiary producers",
+      "C... Herbivores",
+      "D... Animals"
+    ],
+    "units": [
+      "Grade 11: Population and Natural Resources"
+    ],
+    "topic": "Energy Flow in Ecosystems",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "The sets in which scientists usually conduct two or more sets of the same experiment at the same time is:",
+    "options": [
+      "A: Experimental group",
+      "B: Experimental design",
+      "C: Replication",
+      "D: Control group"
+    ],
+    "units": [
+      "Grade 9: Biology and Technology",
+      "Grade 11: Biology and Technology"
+    ],
+    "topic": "Experimental design and replication",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which of the following properties of water makes sweat a good body coolant?",
+    "options": [
+      "A: Its strong surface tension",
+      "B: Its low density in the solid state",
+      "C: Its strong adhesion to a surface",
+      "D: Its high heat of vaporization"
+    ],
+    "units": [
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Thermoregulation and homeostasis",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "How many molecules of glycerol and fatty acids, respectively, are needed to form 100 molecules of triglyceride fat?",
+    "options": [
+      "A: 50 and 50",
+      "B: 100 and 100",
+      "C: 100 and 300",
+      "D: 150 and 400"
+    ],
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Lipid biology and structure",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "In a metabolic pathway (A-->B-->C-->D) where each step is catalyzed by a separate enzyme which substance in the pathway serves as an allosteric regulator?",
+    "options": [
+      "A: Substance A",
+      "B: Substance B",
+      "C: Substance C",
+      "D: Substance D"
+    ],
+    "units": [
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Allosteric regulation of enzymes",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following organelles settles out last when homogenized cells are centrifuged?",
+    "options": [
+      "A: Chloroplast",
+      "B: Nucleus",
+      "C: Mitochondria",
+      "D: Ribosome"
+    ],
+    "units": [
+      "Grade 9: Cell Biology"
+    ],
+    "topic": "Cell fractionation and organelle separation",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "At which stage is most of the carbon dioxide released during aerobic respiration?",
+    "options": [
+      "A: Glycolysis",
+      "B: Krebs cycle",
+      "C: Electron transport",
+      "D: Chemiosmosis"
+    ],
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Cellular respiration",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "One of the following groups of plants carry out light dependent and light independent reactions of photosynthesis in separate cells of the leaf.",
+    "options": [
+      "A: Plants adapted to temperate regions",
+      "B: Carbon-3 plants",
+      "C: Carbon-4 plants",
+      "D: Cacti"
+    ],
+    "units": [
+      "Grade 10: Food Making and Growth in Plants"
+    ],
+    "topic": "Photosynthetic processes in plants",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "What is the nutritional mode of those bacteria which decompose dead organic matter and thus recycle nutrients?",
+    "options": [
+      "A: Autotrophic",
+      "B: Parasitic",
+      "C: Saprobioiesis",
+      "D: Symbiotic"
+    ],
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Bacterial nutrition and decomposition",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "In what main way do retroviruses such as HIV differ from from other types of RNA viruses?",
+    "options": [
+      "A: They require a host cell to reproduce",
+      "B: They reversely copy RNA to DNA",
+      "C: Their genes are resistant to mutation",
+      "D: They are free living viruses"
+    ],
+    "units": [
+      "Grade 9: Classification",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Virus structure and function",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following is NOT true about the flow of energy in the ecosystem?",
+    "options": [
+      "A: It is recycled by decomposers",
+      "B: It passes from one trophic level to the next",
+      "C: It enters the ecosystem in the form of light",
+      "D: It leaves the ecosystem in the form of heat"
+    ],
+    "units": [
+      "Grade 10: Conservation of Natural Resources",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Energy flow and trophic levels",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Through which of the following processes do all living organisms contribute to carbon cycle?",
+    "options": [
+      "Photosynthesis",
+      "Cellular respiration",
+      "Decomposition",
+      "Combustion"
+    ],
+    "units": [
+      "Grade 9: Environment",
+      "Grade 12: Ecology",
+      "Grade 12: Climate Change"
+    ],
+    "topic": "Carbon Cycle",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "In ecological context which of the following is a population ?",
+    "options": [
+      "All living organisms in a habitat",
+      "All the producers in a habitat",
+      "All individuals of same species in a habitat",
+      "All the consumers in a habitat"
+    ],
+    "units": [
+      "Grade 9: Environment",
+      "Grade 12: Ecology",
+      "Grade 11: Population and Natural Resources"
+    ],
+    "topic": "Population Ecology",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "During meiosis, which processes makes the four chromatids of a homologous pair of chromosomes genetically different from one another?",
+    "options": [
+      "Independent assortment",
+      "Crossing over",
+      "Segregation",
+      "Linkage"
+    ],
+    "units": [
+      "Grade 12: Genetics",
+      "Grade 10: Heredity",
+      "Grade 11: Genetics"
+    ],
+    "topic": "Meiosis and Genetic Variation",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "One of the following is NOT true about protein synthesis in eukaryotes.",
+    "options": [
+      "Translation takes place in the cytoplasm",
+      "Transcription takes place in the nucleus",
+      "Both Transcription and translation takes place in the cytoplasm",
+      "mRNA is modified after transcription"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Enzymes",
+      "Grade 12: Genetics"
+    ],
+    "topic": "Protein Synthesis in Eukaryotes",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following combinations is known as Neo-Darwinism?",
+    "options": [
+      "Natural selection and acquired inheritance",
+      "Acquired inheritance and Mendelian law of inheritance",
+      "Natural selection and Lamarck's theory of evolution",
+      "Natural selection and Mendelian law of inheritance"
+    ],
+    "units": [
+      "Grade 12: Evolution"
+    ],
+    "topic": "Modern Synthesis and Neo-Darwinism",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "In the process of allopatric speciation, which of the following is the mechanism that prevents populations from exchanging genes?",
+    "options": [
+      "Polyploidy",
+      "Geographic barrier",
+      "Seasonal isolation",
+      "Temporal isolation "
+    ],
+    "units": [
+      "Grade 12: Evolution"
+    ],
+    "topic": "Allopatric Speciation",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "A boy who had seen a snake crossing his way earlier jumped up violently when grass touched his legs. Which behavior is it?",
+    "options": [
+      "Habituation",
+      "Sensitization",
+      "Conditioning",
+      "Imprinting"
+    ],
+    "units": [
+      "Grade 12: Behaviour"
+    ],
+    "topic": "Learning and Behavior",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "What material do microbiologists use to culture bacteria in the laboratory?",
+    "options": [
+      "Moist soil",
+      "The royal jelly",
+      "Agar nutrient",
+      "Mixture of iodine and sugar"
+    ],
+    "units": [
+      "Grade 12: Microorganisms",
+      "Grade 9: Micro-organisms and Disease"
+    ],
+    "topic": "Microbiology Techniques",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which of the following is usually taken as a signal for the final stage of HIV infection?",
+    "options": [
+      "Signs of the disease Kaposi's sarcoma",
+      "Outbreak of some genetic diseases",
+      "Uninfected T- helper cells present",
+      "No infection by other parasitic diseases"
+    ],
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 12: Microorganism"
+    ],
+    "topic": "HIV and AIDS",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Though which process can inorganic ions from the soil be absorbed in to the root hairs?",
+    "options": [
+      "Dehydration",
+      "Diffusion",
+      "Active transport",
+      "Osmosis"
+    ],
+    "units": [
+      "Grade 9: Environment",
+      "Grade 12: Ecology",
+      "Grade 10: Food Making and Growth in Plants"
+    ],
+    "topic": "Nutrient Absorption in Plants",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "How are organic molecules distinguished from inorganic molecules? Organic molecules always contain:",
+    "options": [
+      "Oxygen and hydrogen",
+      "Carbon and oxygen",
+      "Oxygen and nitrogen",
+      "Carbon and hydrogen"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Enzymes",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Organic molecules",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "In which industrial enzyme technology is lactase practical applied to produce lactose-free milk for use by lactose intolerant individuals?",
+    "options": [
+      "Chocolate manufacturing industry",
+      "Human hormone manufacturing industry",
+      "Dairy product manufacturing industry",
+      "Cereal food manufacturing industry"
+    ],
+    "units": [
+      "Grade 9: Biology and Technology",
+      "Grade 10: Biotechnology",
+      "Grade 11: Biology and Technology"
+    ],
+    "topic": "Enzyme applications in industry",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "Which kind of enzyme inhibitors bind to enzyme only weakly and the bond that hold them breaks easily releasing the inhibitor to allow the enzyme to become active again?",
+    "options": [
+      "Irreversible inhibitors",
+      "Reversible inhibitor",
+      "Inhibitors that bind strongly to enzymes",
+      "Inhibitors that permanently alter enzyme structure"
+    ],
+    "units": [
+      "Grade 11: Enzymes",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Enzyme inhibition",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Of the following models describing the nature of the cell membrane, which one was proposed before all the others?",
+    "options": [
+      "The sandwich model",
+      "Fluid mosaic model",
+      "The unit membrane model",
+      "Phospholipid bilayer model"
+    ],
+    "units": [
+      "Grade 9: Cell Biology"
+    ],
+    "topic": "Cell membrane models",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Why is it that longer races by athletes must be run slower than shorter races?",
+    "options": [
+      "To give time for lactic acid fermentation in muscle cells",
+      "To avoid hunger as food is quickly converted to energy",
+      "To allow aerobic respiration to produce the required ATP",
+      "To adapt to the weather condition at the racing place"
+    ],
+    "units": [
+      "Grade 9: Human Biology and Health"
+    ],
+    "topic": "Muscle energy and endurance",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "In which organ of the human body are more bacteria found?",
+    "options": [
+      "Lungs",
+      "Stomach",
+      "Small intestine",
+      "Large intestine"
+    ],
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Bacterial populations in the human body",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "From which group of micro-organisms was the first antibiotics produced?",
+    "options": [
+      "Gram-negative bacteria",
+      "Gram-positive bacteria",
+      "Fungal organism",
+      "Viral agents"
+    ],
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "History of antibiotics",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "What is the other name for the primary consumers of the ecosystem?",
+    "options": [
+      "Herbivores",
+      "Carnivores",
+      "Green plants",
+      "Predators"
+    ],
+    "units": [
+      "Grade 11: Population and Natural Resources"
+    ],
+    "topic": "Ecosystem roles",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Of the following activities which one is considered to have an indirect negative effect on biodiversity?",
+    "options": [
+      "Human and livestock population growth",
+      "Charcoal making and illegal logging",
+      "Deforestation for cultivation and urbanization",
+      "Mono culture farming with improved crop varieties"
+    ],
+    "units": [
+      "Grade 9: Environment",
+      "Grade 11: Population and Natural Resources"
+    ],
+    "topic": "Biodiversity impacts",
+    "bloom_level": "Analyzing"
+  },
+  {
+    "question": "If two heterozygous tall pea plants are crossed, how many of the offspring would be phenotypically tall plants?",
+    "options": [
+      "0%",
+      "25%",
+      "50%",
+      "75%"
+    ],
+    "units": [
+      "Grade 10: Heredity",
+      "Grade 11: Genetics",
+      "Grade 12: Genetics"
+    ],
+    "topic": "Genetic inheritance patterns",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "How can biotechnology be applied to reduce the use of inorganic fertilizers in agriculture?",
+    "options": [
+      "By using the golden rice and producing organic fertilizers from betacarotenes.",
+      "By using thermostable enzyme of genetically engineered bacteria used in washing powders.",
+      "By selecting and propagating varieties with high growth rates and high productivity.",
+      "By using enzyme produced by genetically engineered bacteria used in the food industry"
+    ],
+    "units": [
+      "Grade 9: Biotechnology",
+      "Grade 10: Biotechnology",
+      "Grade 11: Biotechnology",
+      "Grade 12: Biotechnology"
+    ],
+    "topic": "Applications of biotechnology in agriculture",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "Which of the following feature do analogous structures mostly share?",
+    "options": [
+      "Phylogenetic similarity",
+      "Development",
+      "Ancestral similarity",
+      "Functional similarity"
+    ],
+    "units": [
+      "Grade 9: Classification",
+      "Grade 12: Evolution"
+    ],
+    "topic": "Analogous structures",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "In which of the following ways dose learned behavior differ from innate behavior?",
+    "options": [
+      "Learned behavior is adaptive in nature .",
+      "Learned behavior is genetically determined.",
+      "Learned behavior is modified by new experiences .",
+      "Learned behavior is functional at the first attempt."
+    ],
+    "units": [
+      "Grade 12: Behaviour"
+    ],
+    "topic": "Differences between learned and innate behavior",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Current human concerns such as famine, pestilence, and environmental degradation would be solved through the use of:",
+    "options": [
+      "Biological principles",
+      "Irrigation",
+      "Aquaculture",
+      "Terracing"
+    ],
+    "units": [
+      "Grade 10: Conservation of Natural Resources",
+      "Grade 11: Population and Natural Resources",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Solutions to human concerns",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "The best way to control HIV/AIDS is:",
+    "options": [
+      "Adequate distribution of condoms",
+      "Adequate distribution of antiviral drugs",
+      "Breaking the transmission pathway",
+      "Awareness creation"
+    ],
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Control measures for HIV/AIDS",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "Which is the possible effect of the weak hydrogen bond among water molecules?",
+    "options": [
+      "It helps water to boild at low temperature",
+      "It results in the crystal shape of ice",
+      "Plays a significant role in the interaction of a water molecule with hydrophobic surfaces",
+      "It speeds up photosyntheses is"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 10: Food Making and Growth in Plants"
+    ],
+    "topic": "Characteristics of water molecules",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Cell organelles that contain hydrolytic enzymes are called:",
+    "options": [
+      "Peroxisomes",
+      "Lysosomes",
+      "Mesosomes",
+      "Ribosomes"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Characteristics of Animals",
+      "Grade 12: Genetics"
+    ],
+    "topic": "Cell organelles and their functions",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which part of the cell makes necessary changes packages and secretes proteins?",
+    "options": [
+      "Golgi apparatus",
+      "Endoplasmic reticulum",
+      "Mitochondria",
+      "Cell wall"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Characteristics of Animals"
+    ],
+    "topic": "Functions of cell organelles",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which of the following takes place under normal conditions as electrons flow down the electron transport chain of the mitochondria?",
+    "options": [
+      "NADH and FADH2 are oxidized",
+      "The ph of the matrix increases",
+      "The electrons lose free energy",
+      "An electrochemical gradient is formed"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Electron transport chain in mitochondria",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "In the processes of photosynthesis light is necessary to:",
+    "options": [
+      "Split carbon dioxide",
+      "Releases energy",
+      "Combine CO2 and H2O",
+      "Produce ATP and a reducing substance"
+    ],
+    "units": [
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Role of light in photosynthesis",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which of the following is not an industrial use of bacteria?",
+    "options": [
+      "Recycling of minerals through ecosystems",
+      "Food processing",
+      "Genetic engineering",
+      "Waste water treatment"
+    ],
+    "units": [
+      "Grade 9: Biology and Technology",
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 10: Biotechnology",
+      "Grade 11: Biology and Technology",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Industrial applications of bacteria",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Carbon cycle is important in nature because:",
+    "options": [
+      "The amount of energy before and after a reaction must be the same",
+      "It continuously reuse and recycles carbon in the ecosystem.",
+      "It consumes oxygen and nitrogen in the atmosphere.",
+      "It is used in energy capture and recapture."
+    ],
+    "units": [
+      "Grade 9: Environment",
+      "Grade 11: The Human Body Systems",
+      "Grade 12: Ecology"
+    ],
+    "topic": "The Carbon Cycle and its importance",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following is essential in order for a virus to replicate?",
+    "options": [
+      "The capsid must enter the host cell cytoplasm",
+      "The host cell must be undergoing mitosis",
+      "The host cell must lack cell membrane.",
+      "The genome must be released in to the cytoplasm"
+    ],
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Viral replication",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "Which one of the following NOT in situ conservation of Biodiversity?",
+    "options": [
+      "Botanical garden",
+      "Sanctuary",
+      "Biosphere reserves",
+      "National parks"
+    ],
+    "units": [
+      "Grade 10: Conservation of Natural Resources",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Types of biodiversity conservation",
+    "bloom_level": "Evaluating"
+  },
+  {
+    "question": "Which one of the following represent the population growth curve of a species with limited resources?",
+    "options": [
+      "Logistic",
+      "Exponential",
+      "Long normal",
+      "competitive exclusion"
+    ],
+    "units": [
+      "Grade 11: Population and Natural Resources",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Population growth models",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "One goat is heterozygous, long hair(Rr), and its mate carries homozygous short (rr). What is the probability of the offspring having short hair?",
+    "options": [
+      "25%",
+      "100%",
+      "75%",
+      "50%"
+    ],
+    "units": [
+      "Grade 10: Heredity",
+      "Grade 11: Genetics",
+      "Grade 12: Genetics"
+    ],
+    "topic": "Predicting genetic traits",
+    "bloom_level": "Analyzing"
+  },
+  {
+    "question": "The type of enzyme used in recombinant DNA technology to spilt a specific sugar phosphate bond in each strand of a DNA double helix is called:",
+    "options": [
+      "Esterase",
+      "Restriction enzyme",
+      "Lipase",
+      "Ligase"
+    ],
+    "units": [
+      "Grade 10: Biotechnology",
+      "Grade 11: Enzymes",
+      "Grade 11: Genetics",
+      "Grade 12: Genetics"
+    ],
+    "topic": "Enzymes in genetic engineering",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Lamarck's theory of evolution is know as:",
+    "options": [
+      "Natural selection",
+      "Survival of the fittest",
+      "Mutation theory",
+      "Inheritance of acquired characters"
+    ],
+    "units": [
+      "Grade 12: Evolution",
+      "Grade 12: Behaviour"
+    ],
+    "topic": "Theories of evolution",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Habituation and imprinting illustrate that behaviors are made up of:",
+    "options": [
+      "Reversible stimulus-response learning",
+      "Unchanging response to present stimuli",
+      "Both innate and learned components",
+      "Simple response to complex stimuli"
+    ],
+    "units": [
+      "Grade 12: Behaviour"
+    ],
+    "topic": "Behavioral components in animals",
+    "bloom_level": "Analyzing"
+  },
+  {
+    "question": "The evolution of species which is based upon the sum total adaptation changes could be preserved by:",
+    "options": [
+      "Natural selection",
+      "Speciation",
+      "Human conservation",
+      "Isolation"
+    ],
+    "units": [
+      "Grade 12: Evolution"
+    ],
+    "topic": "Mechanisms of evolution",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Based on differences in DNA which of the following animals is closer to human beings?",
+    "options": [
+      "Frog",
+      "Domestic pig",
+      "Zebra fish",
+      "Domestic chicken"
+    ],
+    "units": [
+      "Grade 9: Classification",
+      "Grade 11: The Human Body Systems",
+      "Grade 12: Ecology",
+      "Grade 12: Evolution",
+      "Grade 12: Behaviour"
+    ],
+    "topic": "Genetic Similarity and Classification",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "To which group of sugar can the molecule dihydroxyacetone be classified?",
+    "options": [
+      "Hexose sugars",
+      "Pentose sugars",
+      "Triose sugars",
+      "Oligosugars"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      " Grade 11: Enzymes"
+    ],
+    "topic": "Classification of Sugars",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Choose the one in which the human digestive enzyme is INCORRECT matched with the substance that it normally catalyzes.",
+    "options": [
+      "Lipase-fat",
+      "Pepsin-protein",
+      "Trypsin-starch",
+      "Pancreatic amylase-starch"
+    ],
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Digestive Enzymes and Their Substrates",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "The organelle of the cell which is concerned with the synthesis of lipids in addition to being associated with carbohydrate metabolism and detoxification is:",
+    "options": [
+      "Golgi body/apparatus",
+      "Thylakoid membrane",
+      "Rough endoplasmic reticulum",
+      "Smooth endoplasmic reticulum"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Cellular Organelles and Their Functions",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Where is convergence point for the metabolism of the building blocks of carbohydrates lipids and proteins",
+    "options": [
+      "Cytoplasm",
+      "Krebs cycle",
+      "Calvin cycle",
+      "Electron transsport"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 11: Enzymes",
+      "Grade 11: Population and Natural Resources"
+    ],
+    "topic": "Metabolic Pathways",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Among the following crops, which one uses a non-C4 photosynthetic pathways?",
+    "options": [
+      "Maize",
+      "Sorghum",
+      "Pineapple",
+      "Sugarcane"
+    ],
+    "units": [
+      "Grade 10: Food Making and Growth in Plants"
+    ],
+    "topic": "Photosynthetic Pathways in Plants",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which of the following is responsible for rapid evolution in RNA viruses?",
+    "options": [
+      "High stability of its RNA",
+      "High mutation rate of its RNA",
+      "Reverse transcription of its RNA",
+      "Accurate replication of its RNA"
+    ],
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 12: Ecology",
+      "Grade 12: Evolution"
+    ],
+    "topic": "Genetics of Viruses",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "What major consequence dose primary ecological succession involve normally?",
+    "options": [
+      "Complexity of food webs increases",
+      "Number of species present decreases",
+      "A biotic factor become less favorable",
+      "Habitats become harsher and deteriorate"
+    ],
+    "units": [
+      "Grade 9: Environment",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Ecological Succession",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "How quickly a population would increase or decrease in size is probably least influenced by the presence of:",
+    "options": [
+      "Adequate supply of oxygen",
+      "Disproportionate human races",
+      "Severe inter-specific competition",
+      "Carnivores and herbivores"
+    ],
+    "units": [
+      "Grade 11: Population and Natural Resources",
+      "Grade 12: Microbiology"
+    ],
+    "topic": "Population Dynamics",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "Among the theories about the origin of life which one better agrees with the concept of change in organisms and their genetic composed over generation being caused by meiosis, hybridization, natural selection or mutation?",
+    "options": [
+      "Cosmozoan theory",
+      "Biochemical origin theory",
+      "Special creationism's theory",
+      "Spontaneous generation"
+    ],
+    "units": [
+      "Grade 12: Ecology",
+      "Grade 12: Evolution"
+    ],
+    "topic": "Theories of Evolutionary Change - theories about the origin of life",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following is the most accepted theory about the origin of life on earth?",
+    "options": [
+      "A. Theory of spontaneous evolution",
+      "B. Theory of chemical evolution",
+      "C. The cosmic theory",
+      "D. Theory of special creation"
+    ],
+    "units": [
+      "Grade 12 Evolution",
+      "Grade 9 Environment"
+    ],
+    "topic": "Theories of the origin of life on earth",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": " What is the possible cause or isolating mechanism for the formation of allopatric species?",
+    "options": [
+      "A. Seasonal isolation",
+      "B. Temporal isolation",
+      "C. Behavioral isolation",
+      "D. Geographic isolation"
+    ],
+    "units": [
+      "Grade 12 Evolution"
+    ],
+    "topic": "Mechanisms of speciation",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following statement about instinctive actions is NOT true?",
+    "options": [
+      "A. Are innate.",
+      "B. Are adaptive",
+      "C. Require learning",
+      "D. Have fixed pattern"
+    ],
+    "units": [
+      "Grade 12 Behaviour"
+    ],
+    "topic": "Innate behaviors",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "What dose a low value for Simpson's index of diversity normally indicate to the researcher?",
+    "options": [
+      "A. An area with high number of endemic species",
+      "B. An area dominated by one or just a few species",
+      "C. A biodiversity hotspot wit abundant species",
+      "D. An area with plants but no species of animals"
+    ],
+    "units": [
+      "Grade 12 Ecology"
+    ],
+    "topic": "Biodiversity indices",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "A country with a high youth population but a low old age population and low infant population shows",
+    "options": [
+      "A. A population pyramid with bulge in the middle",
+      "B. A population with wide base and narrow apex",
+      "C. A inverted pyramid",
+      "D. A pyramid assuming a rectangular shape"
+    ],
+    "units": [
+      "Grade 11 Population and Natural Resources"
+    ],
+    "topic": "Population pyramids",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which one of the following is the primary contribution of Darwin to biological theory?",
+    "options": [
+      "A. An important mechanism of biological evolution is natural selection",
+      "B. New alleles arise through mutation",
+      "C. Evolution is the change in gene frequencies over time.",
+      "D. Genes are the units of inheritance."
+    ],
+    "units": [
+      "Grade 12 Evolution",
+      "Grade 11 Genetics"
+    ],
+    "topic": "Darwin's contributions to evolution",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Retroviruses are able to reverse transcribe RNA to DNA in order to:",
+    "options": [
+      "A. Command the host cell in the production of genomes similar to that of the hosts.",
+      "B. Control the formation of viral protein and RNA that can be assembled into new virus particles.",
+      "C. Replicate without any interruption",
+      "D. Control the formation of viral protein and DNA that can be assembled into new viral particles"
+    ],
+    "units": [
+      "Grade 9 Micro-organisms and Disease",
+      "Grade 12 Micro-organisms"
+    ],
+    "topic": "Retrovirus replication",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "Which of the following nucleotide sequences contains four pyrimidine bases?",
+    "options": [
+      "A. GATCAATGC",
+      "B. UAGCGGUAA",
+      "C. GCUAGACAA",
+      "D.  Both B and C"
+    ],
+    "units": [
+      "Grade 11 Genetics",
+      "Grade 12 Genetics"
+    ],
+    "topic": "Nucleotide classification",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "A significant change in Ph that can affect an enzyme molecule includes",
+    "options": [
+      "A. Building strong ionic bonds leading to stabilization of enzymes",
+      "B. Altering the charges on some substrates making it difficult to bind to enzyme",
+      "C. Changing the color and palatability of food items",
+      "D. Increasing the boiling temperature of the substrate"
+    ],
+    "units": [
+      "Grade 11 Enzymes"
+    ],
+    "topic": "Enzyme regulation",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "Which of the following two elements are found in all organic molecules?",
+    "options": [
+      "A. Carbon and oxygen",
+      "B. Carbon and nitrogen",
+      "C. Carbon and hydrogen",
+      "D. Carbon and phosphorus"
+    ],
+    "units": [
+      "Grade 9 Cell Biology"
+    ],
+    "topic": "Organic molecules",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "If two molecule of a six carbon sugar are condensed to form a disaccharide, which of the following is the correct molecular formula of the disaccharide?",
+    "options": [
+      "C12H24O12",
+      "C6H12O6",
+      "C12H24O12",
+      "C12H22O11"
+    ],
+    "units": [
+      "Grade 10: Food Making and Growth in Plants"
+    ],
+    "topic": "Condensation reactions and carbohydrates",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "Which of the following is NOT a requirement for a molecule to directly diffuse across the cell membrane?",
+    "options": [
+      "Small size",
+      "Non-polarity",
+      "Large size and polarity",
+      "Lipid solubility"
+    ],
+    "units": [
+      "Grade 9: Cell Biology"
+    ],
+    "topic": "Diffusion and membrane permeability",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following molecules can provide the cell the least amount of energy per molecule?",
+    "options": [
+      "Glucose",
+      "Reduced NAD",
+      "Reduced FAD",
+      "ATP"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 10: Food Making and Growth in Plants"
+    ],
+    "topic": "Cellular respiration",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "During photosynthesis, which of the following is first step in the transduction of light energy to chemical Energy?",
+    "options": [
+      "ATP formation",
+      "Carbon fixation",
+      "Photolysiss of water",
+      "Glucose formation"
+    ],
+    "units": [
+      "Grade 10: Food Making and Growth in Plants"
+    ],
+    "topic": "Photosynthesis process",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "which of the following terms specifically refers to an ecological succession that starts in an aquatic environment?",
+    "options": [
+      "Xerosere",
+      "Hydrosere",
+      "Primary succession",
+      "Secondary succession"
+    ],
+    "units": [
+      "Grade 12: Ecology"
+    ],
+    "topic": "Ecological succession classes",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Suppose the age pyramid of population has a broad base with a narrow top, which of the following is NOT true about the population?",
+    "options": [
+      "It is fast growing",
+      "It has high growing",
+      "It is dominated by young people",
+      "It has a high birth rate"
+    ],
+    "units": [
+      "Grade 11: Population and Natural Resources"
+    ],
+    "topic": "Population growth and structure",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "What is the reason that Stanley Miller excluded free oxygen from the Mixture of the gases that he used for his simulation experiment?",
+    "options": [
+      "Early organic molecules did not contain oxygen",
+      "Oxygen cannot react with the rest of the gases",
+      "Primitive atmosphere was reducing",
+      "The primitive atmosphere was full of oxygen"
+    ],
+    "units": [
+      "Grade 12: Behaviour",
+      "Grade 12: Evolution"
+    ],
+    "topic": "Millers simulation experiment",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "Which of the following organic molecules is least informative about the evolutionary relationships between species",
+    "options": [
+      "Carbohydrates",
+      "Proteins",
+      "DNA",
+      "RNA"
+    ],
+    "units": [
+      "Grade 12: Evolution"
+    ],
+    "topic": "Molecular evolution",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "In which of the following ways dose mutation contribute most to evolution?",
+    "options": [
+      "It preserves adaptive genes",
+      "It creates new alleles",
+      "It forms a new gene poll",
+      "It helps genes to recombine"
+    ],
+    "units": [
+      "Grade 12: Evolution",
+      "Grade 11: Genetics"
+    ],
+    "topic": "Mutation and evolution",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "A small girl who had observed her mother making a telephone call one day made a call on her own. Which learning behavior dose this exemplify?",
+    "options": [
+      "Insight ?learning",
+      "Trial and error",
+      "Latent learning",
+      "Sensitization"
+    ],
+    "units": [
+      "Grade 12: Behaviour"
+    ],
+    "topic": "Learning behaviour",
+    "bloom_level": "Applying"
+  }
+]

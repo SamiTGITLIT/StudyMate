@@ -1,0 +1,1260 @@
+[
+  {
+    "question": "Which one of the following monohybrid crosses can be a test cross?",
+    "units": [
+      "Grade 10: Heredity",
+      "Grade 11: Genetics",
+      "Grade 12: Genetics"
+    ],
+    "topic": "Monohybrid Test Cross",
+    "bloom_level": "Applying",
+    "options": [
+      "Rr X Rr",
+      "RR X Rr",
+      "RR X rr",
+      "RR X RR"
+    ]
+  },
+  {
+    "question": "Which of the following is different from the rest with regard to conservation of vegetation?",
+    "units": [
+      "Grade 9: Environment",
+      "Grade 10: Conservation of Natural Resources"
+    ],
+    "topic": "Conservation of Vegetation",
+    "bloom_level": "Analyzing",
+    "options": [
+      "Using local practices for conservation",
+      "Replanting of land with endemic species",
+      "Replanting indigenous tree species",
+      "Large scale introduction of exotic plants"
+    ]
+  },
+  {
+    "question": "In the nervous co-ordination system, which of the following statements explains the synapse? It is a",
+    "units": [
+      "grade 9: Cell Biology",
+      "Grade 9: Human Biology and Health",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Synapse",
+    "bloom_level": "Remembering",
+    "options": [
+      "chemical that transmits nerve impulses across the nervous system.",
+      "part of the skull that encloses brain for the purpose of protection.",
+      "junction between two neurons or a neuron and a muscle.",
+      "short term change in the electrical potential on the surface of cells."
+    ]
+  },
+  {
+    "question": "Two students want to demonstrate a simple spinal reflex action using the knee jerk reflex. One of them sits down with one leg loosely crossed over the other. The other hits the crossed leg just below the knee cap gently but firmly using the edge of his hand. Which one of the following situations will happen during this demonstration?",
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Reflex Action",
+    "bloom_level": "Understanding",
+    "options": [
+      "impulse travels to the brain.",
+      "hit ligament stretches the muscle.",
+      "lower leg to jerk downwards and inwards.",
+      "impulse travels to quadriceps muscle from the brain."
+    ]
+  },
+  {
+    "question": "Which one of the following eye structures is correctly matched with its function?",
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Eyes",
+    "bloom_level": "Remembering",
+    "options": [
+      "Pupil - serves as the eye's protective outer layer",
+      "Iris - controls the amount of light entering the eye",
+      "Cornea - provides nutrition to the retina",
+      "Choroid - bends the light into the eye"
+    ]
+  },
+  {
+    "question": "Which one of the following descriptions of proteins is correctly matched with its function in a cell membrane? Options: Peripheral protein - anchor integral proteins to the cytoskeleton, Glycoprotein-reduces the fluidity of the membrane, Channel proteins - larger molecules can pass through them, Carrier proteins - specific ions can pass along them",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Cell Membrane Proteins",
+    "bloom_level": "Remembering",
+    "options": [
+      "Peripheral protein - anchor integral proteins to the cytoskeleton",
+      "Glycoprotein- reduces the fluidity of the membrane",
+      "Channel proteins - larger molecules can pass through them",
+      "Carrier proteins - specific ions can pass along them"
+    ]
+  },
+  {
+    "question": "In the aerobic cellular respiration Options: Krebs cycle takes place in the cytoplasm., glycolysis takes place in the mitochondria., electron transport chain takes place in the cytoplasm., pyruvate enters into the mitochondria for further stages.",
+    "units": [
+      "Grade 12: Biology"
+    ],
+    "topic": "Aerobic Cellular Respiration",
+    "bloom_level": "Remembering",
+    "options": [
+      "Krebs cycle takes place in the cytoplasm.",
+      "glycolysis takes place in the mitochondria.",
+      "electron transport chain takes place in the cytoplasm.",
+      "pyruvate enters into the mitochondria for further stages."
+    ]
+  },
+  {
+    "question": "Suppose a hypothetical cell of 15% solute concentration is put in a beaker containing 90% water and 10% solute. In which way will the water move? Options: From the cell to the beaker, From the beaker to the cell, Both into and out of the cell, Both into and out of the beaker",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 12: Biology"
+    ],
+    "topic": "Osmosis and Diffusion",
+    "bloom_level": "Applying",
+    "options": [
+      "From the cell to the beaker",
+      "From the beaker to the cell",
+      "Both into and out of the cell",
+      "Both into and out of the beaker"
+    ]
+  },
+  {
+    "question": "Which one of the following is correct about transport of substances across the cell membrane? Options: Simple diffusion - large particles transported through channel proteins, Facilitated diffusion - particles move from high water potential to lower one, Passive transport particles require energy in the form of ATP to derive the transport, Active transport - particles move from low to higher concentration using carrier prote",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 12: Biology"
+    ],
+    "topic": "Transport across cell membrane",
+    "bloom_level": "Understanding",
+    "options": [
+      "Simple diffusion - large particles transported through channel proteins",
+      "Facilitated diffusion - particles move from high water potential to lower one",
+      "Passive transport particles require energy in the form of ATP to derive the transport",
+      "Active transport - particles move from low to higher concentration using carrier proteins"
+    ]
+  },
+  {
+    "question": "Which one of the following processes of aerobic respiration takes place in the Krebs cycle Options: Hydrogen atoms carried by reduced NAD and FAD are released and split into protons and electrons., Two molecules of ATP are used to phosphorylate each molecules of glucose., Two carbon group from acetyl coenzyme A reacts with a 4-carbon compound to form citrate., Fructose 1, 6-bisphosphate is split into two molecules of the three-carbon sugar GP.",
+    "units": [
+      "Grade 12: Biology"
+    ],
+    "topic": "Krebs cycle",
+    "bloom_level": "Remembering",
+    "options": [
+      "Hydrogen atoms carried by reduced NAD and FAD are released and split into protons and electrons.",
+      "Two molecules of ATP are used to phosphorylate each molecules of glucose.",
+      "Two carbon group from acetyl coenzyme A reacts with a 4-carbon compound to form citrate.",
+      "Fructose 1, 6-bisphosphate is split into two molecules of the three-carbon sugar GP."
+    ]
+  },
+  {
+    "question": "Sickle cell anemia is caused by the replacement of glutamic acid by valine at a specific position in the beta chains of hemoglobin. This change is an example of which mutation?",
+    "units": [
+      "Grade 11: Genetics",
+      "Grade 12: Genetics"
+    ],
+    "topic": "Mutation Type",
+    "bloom_level": "Remembering",
+    "options": [
+      "Addition",
+      "Substitution",
+      "Inversion",
+      "Deletion"
+    ]
+  },
+  {
+    "question": "Stanley Miller conducted spark-discharge experiment by taking a mixture of gases that he thought to represent the primitive atmosphere of the Earth. All of the following were found in his gas mixture EXCEPT",
+    "units": [
+      "Grade 11: Characteristics of Animals",
+      "Grade 12: Evolution"
+    ],
+    "topic": "Miller-Urey Experiment",
+    "bloom_level": "Remembering",
+    "options": [
+      "NH3",
+      "CH4",
+      "H2",
+      "CO2"
+    ]
+  },
+  {
+    "question": "Which one of the following sentences explains the Darwin theory of evolution?",
+    "units": [
+      "Grade 11: Characteristics of Animals",
+      "Grade 12: Evolution"
+    ],
+    "topic": "Darwin’s Theory of Evolution",
+    "bloom_level": "Understanding",
+    "options": [
+      "Environment changes creating a need for organism to change.",
+      "There is a natural variation in features that are heritable.",
+      "New features acquired in lifetime are passed to the offspring.",
+      "There is development of new feature in order to survive."
+    ]
+  },
+  {
+    "question": "Comparative anatomy provides evidence of evolution because it",
+    "units": [
+      "Grade 11: Characteristics of Animals",
+      "Grade 12: Evolution"
+    ],
+    "topic": "Comparative Anatomy",
+    "bloom_level": "Understanding",
+    "options": [
+      "looks at structural similarities of organisms.",
+      "has remains of animals and plants from the remote past.",
+      "has an impression of animal even if the actual parts are missing.",
+      "studies the development of the embryos of vertebrates."
+    ]
+  },
+  {
+    "question": "About 3 million years ago the Isthmus of Panama separated the shrimp population of the Caribbean Sea and created two populations of shrimps, one on either side of the Isthmus. They still look remarkably similar, but they do not interbreed with each other. Which type of isolation is described by this scenario?",
+    "units": [
+      "Grade 11: Characteristics of Animals",
+      "Grade 12: Evolution"
+    ],
+    "topic": "Reproductive Isolation",
+    "bloom_level": "Applying",
+    "options": [
+      "Seasonal isolation",
+      "Geographical isolation",
+      "Behavioural isolation",
+      "Temporal isolation"
+    ]
+  },
+  {
+    "question": "Which one of the following sentences is true about viruses?",
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 12: Micro-organisms"
+    ],
+    "topic": "Viruses - Types and Characteristics",
+    "bloom_level": "Remembering",
+    "options": [
+      "AIDS is caused by a DNA virus.",
+      "Corona virus is a DNA virus.",
+      "Swine flu is caused by an RNA virus.",
+      "Herpes simplex is a DNA virus."
+    ]
+  },
+  {
+    "question": "The following steps are involved when HIV infects its host cell in the human body.",
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 12: Micro-organisms"
+    ],
+    "topic": "HIV Infection Process",
+    "bloom_level": "Applying",
+    "options": [
+      "Conversion of viral RNA into DNA and its incorporation into cell's DNA.",
+      "Viral DNA's transcription into viral RNA and production of proteins.",
+      "Assemblage of new viral particles from RNA, proteins and Reverse Transcriptase",
+      "The binding of gp120 of HIV to CD4 of a T-Lymphocyte"
+    ]
+  },
+  {
+    "question": "Which one of the following bacteria produces ammonium ion by forming a symbiotic association with peas and beans?",
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 12: Micro-organisms"
+    ],
+    "topic": "Nitrogen Fixation in Plants",
+    "bloom_level": "Remembering",
+    "options": [
+      "Klebsiella",
+      "Azotobacter",
+      "Psuedomonas",
+      "Rhizobium"
+    ]
+  },
+  {
+    "question": "Which one of the following comparisons is true about primary and secondary successions? Secondary succession has",
+    "units": [
+      "Grade 9: Environment",
+      "Grade 10: Conservation of Natural Resources",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Ecological Succession",
+    "bloom_level": "Understanding",
+    "options": [
+      "reduced species diversity.",
+      "reduced total biomass of the community.",
+      "has slower progress to reach to the climax.",
+      "more stable community."
+    ]
+  },
+  {
+    "question": "Which one of the following processes takes place when lactate is produced?",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Fermentation and Lactic Acid Production",
+    "bloom_level": "Understanding",
+    "options": [
+      "NAD and FAD are regenerated from reduced NAD and FAD.",
+      "ATP is produced through oxidative phosphorylation.",
+      "Protons accumulation created in the inter-membrane space.",
+      "Reduced NAD supplies hydrogen and becomes oxidized itself."
+    ]
+  },
+  {
+    "question": "Which one of the following structures of the photosystem is correctly related with its function?",
+    "units": [
+      "Grade 9: Environment",
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 11: Enzymes",
+      "Grade 12: Microorgansms"
+    ],
+    "topic": "Photosystems and their functions",
+    "bloom_level": "Remembering",
+    "options": [
+      "Chlorophyll a - a reaction center molecule",
+      "Antenna complex -light dependent reaction begins",
+      "Carotenoid - provides the hydrogen ions",
+      "Thylakoid - absorbs blue and red pigments"
+    ]
+  },
+  {
+    "question": "What happens during the electron transport system of respiration?",
+    "units": [
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 11: Enzymes",
+      "Grade 12: Microorgansms"
+    ],
+    "topic": "Electron transport system in respiration",
+    "bloom_level": "Remembering",
+    "options": [
+      "four-carbon compound undergoes molecular transformation to generate oxaloacetate.",
+      "hydrogen atoms carried by FADH and NADH are released and split into protons and electrons.",
+      "citrate losses a carbon atom to form a five-carbon atom compound and CO2.",
+      "five carbon compound is further decarboxylated to form a four-carbon compound."
+    ]
+  },
+  {
+    "question": "In a dihybrid self-crossing of a plant with genotype DdCc, 3600 offspring were produced. How many of the offspring will have the ddcc genotype?",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 10: Heredity",
+      "Grade 12: Genetics"
+    ],
+    "topic": "Dihybrid cross and phenotypic ratio",
+    "bloom_level": "Applying",
+    "options": [
+      "300",
+      "450",
+      "150",
+      "225"
+    ]
+  },
+  {
+    "question": "During light-independent reactions of photosynthesis, glucose is synthesized through",
+    "units": [
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 11: Enzymes",
+      "Grade 12: Microorgansms"
+    ],
+    "topic": "Calvin cycle",
+    "bloom_level": "Understanding",
+    "options": [
+      "synthesis of reduced NADP that provides hydrogen ion.",
+      "six turns of the Calvin cycle to make one molecule of glucose.",
+      "release of hydrogen ions at the electron transport chain.",
+      "transmission of electrons to the inside of the thylakoid."
+    ]
+  },
+  {
+    "question": "Which one of the following factors of photosynthesis is correctly matched with its effect?",
+    "units": [
+      "Grade 9: Environment",
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 11: Enzymes",
+      "Grade 12: Climate Change"
+    ],
+    "topic": "Factors affecting photosynthesis",
+    "bloom_level": "Analyzing",
+    "options": [
+      "CO2 concentration - limits the reactions by influencing rate of initial reaction with RuBP",
+      "Low temperature - limits the rate of reactions by reducing the number of electrons in the chlorophyll",
+      "Low Rubisco - limits the number of reactions in the light dependent reaction",
+      "Light intensity - limits the rate of ATP synthase enzyme action in light dependent reactions."
+    ]
+  },
+  {
+    "question": "Identify the correct statement regarding translation in eukaryotic cells.",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Translation in Eukaryotes",
+    "bloom_level": "Remembering",
+    "options": [
+      "helicase enzyme begins to unwind a section of DNA.",
+      "polymerase assembles free RNA nucleotides into a chain.",
+      "first two codons of the mRNA enter the ribosome.",
+      "RNA polymerase moves along the antisense strand."
+    ]
+  },
+  {
+    "question": "Which of the following sentences explains how crossing over brings variation?",
+    "units": [
+      "Grade 10: Heredity"
+    ],
+    "topic": "Crossing Over in Meiosis",
+    "bloom_level": "Understanding",
+    "options": [
+      "In meiosis I, there is splitting up of pairs of homologous chromosomes now and line up.",
+      "In meiosis I, there is exchange of a section of DNA between chromatids.",
+      "In meiosis II, homologous chromosomes align themselves independent of other pairs.",
+      "In meiosis II, chromatids from each chromosome are separated at random."
+    ]
+  },
+  {
+    "question": "Which one of the following is an example of a learned behaviour?",
+    "units": [
+      "Grade 12: Behaviour"
+    ],
+    "topic": "Learned Behaviours",
+    "bloom_level": "Remembering",
+    "options": [
+      "Nest-building",
+      "Knee-jerk reflex",
+      "Weaving a web",
+      "Classical conditioning"
+    ]
+  },
+  {
+    "question": "What is the central role of tRNA in translation?",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Enzymes"
+    ],
+    "topic": "tRNA Function in Translation",
+    "bloom_level": "Remembering",
+    "options": [
+      "Carrying genetic information from DNA in the nucleus to ribosomes",
+      "Recognizing the codon of mRNA and bring the correct amino acid to the ribosomes",
+      "Acting as a template for converting a genetic code into amino acid sequence",
+      "Assembling the amino acid into a polypeptide chain"
+    ]
+  },
+  {
+    "question": "In a metabolic pathway, the end-product inhibition occurs when the",
+    "units": [
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Enzyme Regulation and Metabolic Pathways",
+    "bloom_level": "Remembering",
+    "options": [
+      "last product of the pathway inhibits the last enzymatic reaction.",
+      "first product of the pathway inhibits the last enzymatic reaction.",
+      "first product of the pathway inhibits the third enzyme of the reaction",
+      "last product of the pathway inhibits the first enzymatic reaction."
+    ]
+  },
+  {
+    "question": "A student measured the diameter of onion epidermal cells at a magnification of 100X using a field of view adjusted to 2mm by stage micrometer. What would be the diameter of individual cells if 8 cells fit into the field of view of the microscope at 100X magnification?",
+    "units": [
+      "Grade 9: Cell Biology"
+    ],
+    "topic": "Microscopy and Cell Measurement",
+    "bloom_level": "Applying",
+    "options": [
+      "250μm",
+      "200μm",
+      "150μm",
+      "300μm"
+    ]
+  },
+  {
+    "question": "Which one of the following statements is correct about the description of the cell theory?",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Characteristics of Animals",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Cell Theory",
+    "bloom_level": "Remembering",
+    "options": [
+      "Schleiden and Schwann stated that all cells come from pre-existing cells.",
+      "Virchow stated that cell is the unit of structure, physiology and organization of living things.",
+      "Modern cell theory states that cells contain hereditary information that passes from cell to cell.",
+      "Spontaneous generation theory states that all cells have basically different chemical composition."
+    ]
+  },
+  {
+    "question": "Which of the following characteristics of cells is found only in prokaryotic cell?",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 10: Biotechnology",
+      "Grade 11: Characteristics of Animals"
+    ],
+    "topic": "Prokaryotic Cell Characteristics",
+    "bloom_level": "Understanding",
+    "options": [
+      "Division of labor within the cell",
+      "Continuous loop of DNA",
+      "10-100 µm long",
+      "Higher level of complexity"
+    ]
+  },
+  {
+    "question": "All of the following are examples of innate behaviours EXCEPT",
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 12: Behaviour"
+    ],
+    "topic": "Innate Behaviors",
+    "bloom_level": "Analyzing",
+    "options": [
+      "training killer whales at marine parks.",
+      "increasing breathing rate during exercise.",
+      "producing tears when dust gets into the eyes.",
+      "a fly moving its maggot into more humid environment."
+    ]
+  },
+  {
+    "question": "In the course of evolution, which of the following is true about the human brain?",
+    "units": [
+      "Grade 9: Evolution",
+      "Grade 12: Evolution"
+    ],
+    "topic": "Human Brain Evolution",
+    "bloom_level": "Remembering",
+    "options": [
+      "Modern humans have a brain size between 0.7% and 1.0% of their body mass.",
+      "Australopithecus have a brain size between 1.8% and 2.3% of their body mass.",
+      "The pre-humans brain uses 80% of the resting energy requirement.",
+      "Homo sapiens brain uses 25% of the resting energy requirement."
+    ]
+  },
+  {
+    "question": "Which one of the following stages of cell division is correctly described in meiosis II?",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 10: Heredity",
+      "Grade 11: Genetics",
+      "Grade 12: Genetics"
+    ],
+    "topic": "Meiosis II stages",
+    "bloom_level": "Remembering",
+    "options": [
+      "Prophase II - pairs of homologous chromosomes split up",
+      "Anaphase II - chromatids from each chromosome separate",
+      "Metaphase II - chromosomes pair and exchange segments",
+      "Telophase II - two haploid cells are produced"
+    ]
+  },
+  {
+    "question": "Which one of the following events is an example of a sex influenced trait?",
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 10: Heredity",
+      "Grade 11: Genetics"
+    ],
+    "topic": "Traits",
+    "bloom_level": "Understanding",
+    "options": [
+      "Pattern baldness",
+      "Lactation",
+      "Ritinitis pigmentosa",
+      "Undescended testicles"
+    ]
+  },
+  {
+    "question": "In the CAM photosynthetic pathway,",
+    "units": [
+      "Grade 9: Environment",
+      "Grade 10: Food Making and Growth in Plants"
+    ],
+    "topic": "CAM Photosynthesis",
+    "bloom_level": "Remembering",
+    "options": [
+      "malate is stored in the mesophyll cells during the day.",
+      "glucose is synthesized in the bundle sheath cell during night.",
+      "ATP and NADPH are produced during the night.",
+      "the C4 stage and the Calvin cycle are separated in time."
+    ]
+  },
+  {
+    "question": "In Gram staining, if some bacteria retain the crystal violet after counter staining, then the bacteria is",
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 12: Microorganisms "
+    ],
+    "topic": "Bacterial Staining",
+    "bloom_level": "Understanding",
+    "options": [
+      "Gram positive.",
+      "Gram negative.",
+      "Gram intermediate.",
+      "Gram variable."
+    ]
+  },
+  {
+    "question": "Which one of the following sentences explains the mechanism of bacterium to produce disease?",
+    "units": [
+      "Grade 9: Micro-organisms and Disease"
+    ],
+    "topic": "Pathogenesis",
+    "bloom_level": "Understanding",
+    "options": [
+      "Its hyphae secrets enzymes which digest substances in the tissue.",
+      "It enters into the living cells and disrupts the metabolic systems.",
+      "It attaches with white blood cells and destroy the immune system.",
+      "Its genetic material is incorporated into the cell for instruction."
+    ]
+  },
+  {
+    "question": "Which one of the following sentences explains the role of bacteria in genetic engineering? They are used to",
+    "units": [
+      "Grade 9: Biology and Technology",
+      "Grade 11: Biology and Technology",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Bacteria's role",
+    "bloom_level": "Remembering",
+    "options": [
+      "isolate genes from donor DNA.",
+      "open up a plasmid.",
+      "cut genes from donor DNA.",
+      "contain a recombinant plasmid."
+    ]
+  },
+  {
+    "question": "Which one of the following sentences describes a virus? It",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 10: Heredity",
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Virus structure",
+    "bloom_level": "Remembering",
+    "options": [
+      "has differentiated organelles.",
+      "is saprophytic.",
+      "is acellular.",
+      "undergoes respiration."
+    ]
+  },
+  {
+    "question": "One of the following renowned Ethiopian biologists developed vaccine for the rinderpest disease",
+    "units": [
+      "Grade 9: Biology and Technology",
+      "Grade 10: Biotechnology",
+      "Grade 12: Genetics"
+    ],
+    "topic": "Rinderpest vaccine",
+    "bloom_level": "Remembering",
+    "options": [
+      "Professor Sebsebe Demissew",
+      "Professor Yalemtsehay Mekonnen",
+      "Professor Beyene Petros",
+      "Professor Tilahun Yilma"
+    ]
+  },
+  {
+    "question": "A grade nine student has planned to study animal cells using a compound light microscope... She prepared a slide of stained human cheek cells for this purpose. Which one of the following activities should she first do?",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 12: Genetics"
+    ],
+    "topic": "Microscope use",
+    "bloom_level": "Applying",
+    "options": [
+      "Adjust the iris diaphragm until the maximum brightness is coming.",
+      "Set up the microscope with the lowest power objective in place.",
+      "Using coarse focusing knob to rotate the nosepiece for a higher magnification lens.",
+      "Looking through the eyepiece lens to move the objectives down."
+    ]
+  },
+  {
+    "question": "Which one of the following is true about plant cells? They have",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Plant cell structure",
+    "bloom_level": "Remembering",
+    "options": [
+      "vacuole which controls all activities of the cell.",
+      "lysosomes which contain hydrolytic enzymes.",
+      "chloroplast which is filled with sap, liquids and minerals.",
+      "cell wall which gives support and strengthen to the cell."
+    ]
+  },
+  {
+    "question": "A plant cell is placed in a solution which has lower solute concentration than its contents. After a few minutes the cell will become",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Turgor Pressure",
+    "bloom_level": "Remembering",
+    "options": [
+      "turgid.",
+      "flaccid.",
+      "plasmolysed.",
+      "burst."
+    ]
+  },
+  {
+    "question": "Which one of the following is correct about human food digestion?",
+    "units": [
+      "Grade 9: Micro-organisms and Disease"
+    ],
+    "topic": "Human Digestive System",
+    "bloom_level": "Remembering",
+    "options": [
+      "The stomach physically breaks down the ingested food.",
+      "Mouth use protease enzyme to breakdown proteins.",
+      "Large intestine is the site of lipid hydrolysis.",
+      "The small intestine is site of absorption of digested molecules."
+    ]
+  },
+  {
+    "question": "Which one of the following is NOT the function of the liver?",
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 10: Human Biology and Health",
+      "Grade 12: Human Body Systems"
+    ],
+    "topic": "Liver Functions",
+    "bloom_level": "Remembering",
+    "options": [
+      "Controlling cholesterol",
+      "Storing glycogen",
+      "Monosaccharide metabolism",
+      "Bile formation"
+    ]
+  },
+  {
+    "question": "Which one of the following leaf structures is correctly matched with its function?",
+    "units": [
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 11: Characteristics of Animals"
+    ],
+    "topic": "Plant Leaf Structures and Functions",
+    "bloom_level": "Understanding",
+    "options": [
+      "Palisade mesophyll - the main photosynthetic tissue of the leaf",
+      "Waxy cuticle - controls the entry of carbon dioxide into the leaf",
+      "Guard cells - have lots of air space and gas exchange area of the leaf",
+      "Spongy mesophyll - helps to prevent water loss from the leaf"
+    ]
+  },
+  {
+    "question": "What will happen if an agriculture extension worker injects gibberellins into a dwarf plant?",
+    "units": [
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 9: Environment"
+    ],
+    "topic": "Plant hormones and growth",
+    "bloom_level": "Understanding",
+    "options": [
+      "leaves will fall.",
+      "stem will grow.",
+      "roots will elongate.",
+      "side shoots will grow fast."
+    ]
+  },
+  {
+    "question": "Suppose your friend fails suddenly due to heart attack and victim needs an artificial breathing to keep alive until medical support arrives. Which activity is strictly prohibited in this situation?",
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 10: Human Biology and Health",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "First aid and respiratory system",
+    "bloom_level": "Applying",
+    "options": [
+      "Remove any obstacle from the mouth that might block the airway",
+      "Open the airway by removing any obstacles from the mouth",
+      "Make sure the airway is open and the head is tilted back",
+      "Give mouth - to - mouth resuscitation if he is conscious"
+    ]
+  },
+  {
+    "question": "A biologist collected two types of seeds (SA and SB) from the field and sowed them in moist soils enriched with nutrients then he recorded his observations as follows:",
+    "units": [
+      "Grade 10: Food Making and Growth  in Plants"
+    ],
+    "topic": "Seed germination",
+    "bloom_level": "Remembering",
+    "options": [
+      "SA",
+      "The seedling of this seed emerged from the soil curved while pushing up through the soil.",
+      "The hypocotyl straightened and carried the cotyledons and plumule above the soil surface.",
+      "SB"
+    ]
+  },
+  {
+    "question": "Which one of the following enzymes is correctly matched to the food stuffs it acts on?",
+    "units": [
+      "Grade 11: Enzymes",
+      "Grade 9: Human Biology and Health"
+    ],
+    "topic": "Enzyme specificity",
+    "bloom_level": "Remembering",
+    "options": [
+      "Pepsin - protein",
+      "Maltase - lipids",
+      "Amylase - fats",
+      "Trypsin - starch"
+    ]
+  },
+  {
+    "question": "Which one of the following structures of the heart is correctly matched with its function?",
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 10: Human Biology and Health",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Heart anatomy and function",
+    "bloom_level": "Remembering",
+    "options": [
+      "Right atrium-contracts and forces deoxygenated blood into the lungs",
+      "Left ventricle - contracts and forces oxygenated blood around the body",
+      "Right ventricle - contracts and forces blood into the left ventricles",
+      "Left atrium - contracts and forces blood into the right ventricles"
+    ]
+  },
+  {
+    "question": "Which one of the following phyla is characterized by a flexible cartilaginous rod-like structure, that runs along the dorsal side of the body?",
+    "units": [
+      "Grade 9: Classification",
+      "Grade 11: Characteristics of Animals"
+    ],
+    "topic": "Characteristics of Phylum Chordata",
+    "bloom_level": "Remembering",
+    "options": [
+      "Phylum Mollusca",
+      "Phylum Chordata",
+      "Phylum Annelida",
+      "Phylum Arthropoda"
+    ]
+  },
+  {
+    "question": "Which one of the following sentences explains the traditional use of biotechnology? Production of",
+    "units": [
+      "Grade 9: Biology and Technology",
+      "Grade 10: Biotechnology"
+    ],
+    "topic": "Traditional Biotechnology",
+    "bloom_level": "Understanding",
+    "options": [
+      "insulin using transgenic bacteria",
+      "dairy products at household level",
+      "myco-proteins under a laboratory",
+      "vinegar using industrial fermenter"
+    ]
+  },
+  {
+    "question": "Which one of the following sentences is correct about mitosis? It",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 10: Heredity",
+      "Grade 12: Genetics"
+    ],
+    "topic": "Mitosis",
+    "bloom_level": "Remembering",
+    "options": [
+      "is the division of sex cells resulting in identical daughter cells.",
+      "produces four different daughter cells from a single cell.",
+      "is the division of somatic cells to make identical daughter cells.",
+      "produces half number of chromosomes from the original cell."
+    ]
+  },
+  {
+    "question": "A cross between pea plants having heterozygous genotype (Rr) has been made. Which of the following is correct about the offspring according to the Mendelian inheritance? The genotypic probability of getting",
+    "units": [
+      "Grade 10: Heredity",
+      "Grade 11: Genetics",
+      "Grade 12: Genetics"
+    ],
+    "topic": "Monohybrid Cross",
+    "bloom_level": "Applying",
+    "options": [
+      "Rr is 25%.",
+      "Rr is 75%.",
+      "RR is 50%.",
+      "rr is 25%."
+    ]
+  },
+  {
+    "question": "In the systematic naming of enzymes, assume an enzyme is designated as EC 3.4.11.1. Which of the following correctly describes this enzyme?",
+    "units": [
+      "Grade 10: Heredity",
+      "Grade 11: Enzymes",
+      "Grade 12: Genetics"
+    ],
+    "topic": "Enzyme Systematic Nomenclature",
+    "bloom_level": "Analyzing",
+    "options": [
+      "11 - gives a sub-subclass to which the enzyme belongs.",
+      "1 - a reference of Enzyme Commission.",
+      "4 - shows to which main class the enzyme belongs.",
+      "3- indicates a subclass to which the enzyme belongs."
+    ]
+  },
+  {
+    "question": "How does a competitive inhibitor affect an enzyme catalyzed reaction? By",
+    "units": [
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Enzyme Inhibition (Competitive Inhibitor)",
+    "bloom_level": "Remembering",
+    "options": [
+      "denaturing the active site of the enzyme",
+      "producing conformational change of the enzyme",
+      "binding to the allosteric site of the enzyme",
+      "blocking the active site of the enzyme"
+    ]
+  },
+  {
+    "question": "Which one of the following groups of organisms is correctly matched with its phylum?",
+    "units": [
+      "Grade 9: Classification"
+    ],
+    "topic": "Classifying of Organisms",
+    "bloom_level": "Remembering",
+    "options": [
+      "Starfish-Phylum Echinodermata",
+      "Fish- Phylum Arthropoda",
+      "Snail - Phylum Annelida",
+      "Earthworm - Phylum Mollusca"
+    ]
+  },
+  {
+    "question": "A zoologist studied 5 vertebrate species (spA, spB, spC, spD & spE) and described their features as follows.",
+    "units": [
+      "Grade 11: Characteristics of Animals"
+    ],
+    "topic": "Vertebrate Classification and Characteristics",
+    "bloom_level": "Understanding",
+    "options": [
+      "spA: Smooth moist skin; pass parts of their lives in water and on land",
+      "spB: Streamlined bodies with scales; gills for gaseous exchange",
+      "spC: Feathers over the body and scales on legs; endothermic; horny beak",
+      "spD: Dry skin with scales; ectothermic; lungs for respiration"
+    ]
+  },
+  {
+    "question": "Which one of the following events happens during the carbon cycle? Carbon dioxide is",
+    "units": [
+      "Grade 9: Environment",
+      "Grade 12: Ecology"
+    ],
+    "topic": "The Carbon Cycle",
+    "bloom_level": "Remembering",
+    "options": [
+      "transferred from plants to animals by their feeding relationship.",
+      "absorbed from air when microbes decompose plants and animals.",
+      "removed from the air by animals during respiration.",
+      "returned into the air by plants during photosynthesis."
+    ]
+  },
+  {
+    "question": "Which of the following plant adaptation mechanisms helps cactus to adapt in the desert environment?",
+    "units": [
+      "Grade 9: Environment",
+      "Grade 10: Food Making and Growth in Plants"
+    ],
+    "topic": "Plant Adaptations in Deserts",
+    "bloom_level": "Remembering",
+    "options": [
+      "Spreading its seeds in wider areas",
+      "Increasing number of stomata in its leaves",
+      "Having broad leaves",
+      "Storing water in its tissue"
+    ]
+  },
+  {
+    "question": "A student has conducted an experiment using different enzymes to assess the enhancement of reaction rates under different conditions. She represents her results as indicated in the following table. Options: Enzymes used, Cofactors used, Rate enhancements, Optimum temperature required °C",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Experimental Design and Data Representation with Enzymes",
+    "bloom_level": "Applying",
+    "options": [
+      "Enzymes used",
+      "Cofactors used",
+      "Rate enhancements",
+      "Optimum temperature required °C"
+    ]
+  },
+  {
+    "question": "7 x 108 Options: 30, Which one of the following is an acceptable conclusion of the experiment?, Enzyme 'X' could have enhanced the rate better at temperature slightly higher than 37°C., Enzyme 'M' cannot enhance the rate of reaction further if the temperature exceeds 30°C.",
+    "units": [
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Enzyme Kinetics",
+    "bloom_level": "Evaluating",
+    "options": [
+      "30",
+      "Which one of the following is an acceptable conclusion of the experiment?",
+      "Enzyme 'X' could have enhanced the rate better at temperature slightly higher than 37°C.",
+      "Enzyme 'M' cannot enhance the rate of reaction further if the temperature exceeds 30°C."
+    ]
+  },
+  {
+    "question": "Which one of the following sentences correctly describes the properties of water? It Options: contracts when it freezes and ice acts as an insulator., takes low energy to change into vapor., allows all light wavelengths to pass through its various depths., requires high amount of energy to heat up.",
+    "units": [
+      "Grade 9: Environment",
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 10: Conservation of Natural Resources",
+      "Grade 12: Climate Change"
+    ],
+    "topic": "Physical Properties of Water",
+    "bloom_level": "Remembering",
+    "options": [
+      "contracts when it freezes and ice acts as an insulator.",
+      "takes low energy to change into vapor.",
+      "allows all light wavelengths to pass through its various depths.",
+      "requires high amount of energy to heat up."
+    ]
+  },
+  {
+    "question": "An organic molecule which is an important part of structure of chromosome is Options: amino acid., glycogen., amylose., triglyceride.",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Genetics"
+    ],
+    "topic": "Chromosome Structure Components",
+    "bloom_level": "Remembering",
+    "options": [
+      "amino acid.",
+      "glycogen.",
+      "amylose.",
+      "triglyceride."
+    ]
+  },
+  {
+    "question": "In animal cells, glycogen is hydrolysized quickly to release glucose for respiration. This is due to the presence of several Options: microfibrils in its side chain., α-1,6-glycosidic bonds., β-1,4-glycosidic bonds., enzymes that hydrolyse it easily.",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 11: Genetics",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Glycogen Metabolism in Animal Cells",
+    "bloom_level": "Understanding",
+    "options": [
+      "microfibrils in its side chain.",
+      "α-1,6-glycosidic bonds.",
+      "β-1,4-glycosidic bonds.",
+      "enzymes that hydrolyse it easily."
+    ]
+  },
+  {
+    "question": "What is the function of dermis of the skin?",
+    "units": [
+      "Grade  9: Human Biology and Health"
+    ],
+    "topic": "Layers of Skin",
+    "bloom_level": "Remembering",
+    "options": [
+      "acts as protection against heat loss.",
+      "protects the entry of pathogens into the body.",
+      "forms a waterproof around the body tissue.",
+      "contains blood vessels and sweat glands."
+    ]
+  },
+  {
+    "question": "...dizzy. Why?",
+    "units": [
+      "Grade 9: Human Biology and Health"
+    ],
+    "topic": "Vestibulocochlear (Auditory and Vestibular) System",
+    "bloom_level": "Understanding",
+    "options": [
+      "The otoliths round in the same direction with the head.",
+      "The optic nerves reports that the children are still moving.",
+      "The fluid in their semicircular canals keeps on moving after they stop.",
+      "The sensory hairs vibrate highly in response to movement of their body."
+    ]
+  },
+  {
+    "question": "... When does menstruation start in women with no obvious reproductive a health problem? It happens when...",
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 10: Human Biology and Health"
+    ],
+    "topic": "Menstrual Cycle",
+    "bloom_level": "Understanding",
+    "options": [
+      "the fertilized ovum reaches the uterus and attaches into the thick, spongy lining.",
+      "the FSH stimulates the development of a follicle in the ovary and the egg ripens.",
+      "pregnancy occurs and the embryo obtains nourishment and oxygen.",
+      "thick spongy lining of the uterus detaches in the absence of pregnancy."
+    ]
+  },
+  {
+    "question": "...Which one of the following sentences is correctly matched with the function of kidney structures?",
+    "units": [
+      "grade 9: Human Biology and Health",
+      "Grade 10: Human Biology and Health",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Nefron Components",
+    "bloom_level": "Applying",
+    "options": [
+      "Bowman's capsule - acts as a filter to produce urine",
+      "Cortex- monitors the osmotic pressure of the blood",
+      "Glomerulus concentrates urine and conserves water",
+      "Loop of Henle - involved in ultrafiltration"
+    ]
+  },
+  {
+    "question": "Which one of the following temperature controlling mechanisms in homoiotherms is categorized into behavioral method?",
+    "units": [
+      "Grade 9: Human Biology and Health"
+    ],
+    "topic": "Thermoregulation",
+    "bloom_level": "Applying",
+    "options": [
+      "Sweating when the temperature increases",
+      "Constriction of capillaries when the temperature falls",
+      "Shivering as a result of drop in temperature",
+      "Seeking shade when the temperature rises"
+    ]
+  },
+  {
+    "question": "Which one of the following sentences is correct about the activities of the heart?",
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Heart Operation",
+    "bloom_level": "Remembering",
+    "options": [
+      "The noise of heartbeat one hears through a stethoscope is the sound of valves.",
+      "As the heart beats blood travels through the arteries with a uniform pressure.",
+      "Diastole is when the heart muscles contract and force the blood out.",
+      "Systole is when the heart muscles relax and it fills with blood."
+    ]
+  },
+  {
+    "question": "During culturing micro-organisms, all of the following activities are important, EXCEPT",
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Micro-organisms Culture",
+    "bloom_level": "Applying",
+    "options": [
+      "tilting the lid of the Petri dish during inoculation.",
+      "adding distilled water to a sterilized agar.",
+      "sterilizing the inoculating loops.",
+      "transferring target micro-organisms into an agar medium."
+    ]
+  },
+  {
+    "question": "Which one of the following diseases can be caused by more than one type of microorganisms?",
+    "units": [
+      "Grade 9: Micro-organisms and Disease"
+    ],
+    "topic": "Communicable Diseases",
+    "bloom_level": "Remembering",
+    "options": [
+      "Cholera",
+      "Gastroenteritis",
+      "Typhoid",
+      "Tuberculosis"
+    ]
+  },
+  {
+    "question": "Which one of the following diseases is correctly explained with its causes or symptoms?",
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 9: Human Biology and Health"
+    ],
+    "topic": "Communicable Disease Symptoms & Causes",
+    "bloom_level": "Remembering",
+    "options": [
+      "Syphilis is caused by Neisseria gonorrhoeae.",
+      "Gonorrhoea has a burning sensation symptom while urinating.",
+      "Gonorrhoea is caused by Treponema pallidum.",
+      "Syphilis has sore ulceration on the genitals as a symptom."
+    ]
+  },
+  {
+    "question": "The names of which two taxa are used in binomial nomenclature?",
+    "units": [
+      "Grade 9: Classification"
+    ],
+    "topic": "Biological Taxonomy and Binomial Nomenclature",
+    "bloom_level": "Remembering",
+    "options": [
+      "The two lowest units of classification",
+      "The two middle units of classification",
+      "The highest and the lowest unit of classification",
+      "The two highest units of classification"
+    ]
+  },
+  {
+    "question": "Which of the following is an Ethiopian endemic plant?",
+    "units": [
+      "Grade 9: Environment",
+      "Grade 9: Classification"
+    ],
+    "topic": "Endemic Plants in Ethiopia",
+    "bloom_level": "Remembering",
+    "options": [
+      "Noug seed",
+      "Avocado",
+      "Bahir zaf",
+      "Bunna"
+    ]
+  },
+  {
+    "question": "Walia ibex is an endemic animal species in Ethiopia which is found in",
+    "units": [
+      "Grade 9: Environment",
+      "Grade 9: Classification"
+    ],
+    "topic": "Endemic Animals in Ethiopia",
+    "bloom_level": "Remembering",
+    "options": [
+      "Nechisar National Park.",
+      "Omo National Park.",
+      "Bale Mountain National Park.",
+      "Simien Mountain National Park."
+    ]
+  },
+  {
+    "question": "All of the following sentences are correct about pollution EXCEPT",
+    "units": [
+      "Grade 9: Environment",
+      "Grade 10: Conservation of Natural Resources"
+    ],
+    "topic": "Sources and Types of Pollution",
+    "bloom_level": "Understanding",
+    "options": [
+      "deforestation increases the amount of CO₂ absorbed from the atmosphere.",
+      "decomposition of dead bodies increases the amount of CO₂ in the atmosphere.",
+      "burning fossil fuels increases pollution due to the release of hydrocarbons.",
+      "burning of wood increases pollution by causing global dimming which blocks sunlight."
+    ]
+  },
+  {
+    "question": "When a biologist shares her research findings with other fellow biologists, she is",
+    "units": [
+      "Grade 9: Biology and Technology",
+      "Grade 11: Biology and Technology"
+    ],
+    "topic": "Scientific Communication",
+    "bloom_level": "Understanding",
+    "options": [
+      "making her hypothesis.",
+      "reporting her result.",
+      "drawing her conclusion.",
+      "analyzing her data."
+    ]
+  }
+]

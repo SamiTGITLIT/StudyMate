@@ -1,0 +1,1485 @@
+[
+  {
+    "question": "Which of the following units of measurement is more convenient to express the size of cellular organelles?",
+    "options": [
+      "Meter",
+      "Centimeter",
+      "Milliliter",
+      "Micrometer"
+    ],
+    "units": [
+      "Grade 9: Cell Biology"
+    ],
+    "topic": "Cellular structure and measurement",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "Which of the following steps of the scientific method comes before all the rest?",
+    "options": [
+      "Hypothesis",
+      "Experiment",
+      "Conclusion",
+      "Reporting the result"
+    ],
+    "units": [
+      "Grade 12: Ecology",
+      "Grade 10: Biotechnology",
+      "Grade 11: Biology and Technology"
+    ],
+    "topic": "Scientific method",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "What do we call a scientist who specializes in studying insects?",
+    "options": [
+      "An ecologist",
+      "A paleontologist",
+      "An entomologist",
+      "a microbiologist"
+    ],
+    "units": [
+      "Grade 12: Behaviour",
+      "Grade 10: Biotechnology",
+      "Grade 11: Characteristics of Animals"
+    ],
+    "topic": "Scientific disciplines and specialization",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "To which one of the following organic molecules do enzymes belong?",
+    "options": [
+      "Carbohydrate",
+      "Amino acids",
+      "Proteins",
+      "Lipids"
+    ],
+    "units": [
+      "Grade 10: Biotechnology",
+      "Grade 11: Enzymes",
+      "Grade 12: Ecology",
+      "Grade 9: Micro-organisms and Disease"
+    ],
+    "topic": "Biomolecules and their functions",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which of the following is a coenzyme?",
+    "options": [
+      "NAD",
+      "Carbohydrate",
+      "Water molecule",
+      "Proteins"
+    ],
+    "units": [
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Enzymes and cofactors",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which of the following behavioral biologists is known for his study about imprinting behavior in animals?",
+    "options": [
+      "W. Kohler",
+      "B.F.Skinner,",
+      "Ivan pavlov",
+      "Konrad Lorenz"
+    ],
+    "units": [
+      "Grade 12: Behaviour"
+    ],
+    "topic": "Behavioral biology",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "What colour do gram-positive bacteria stain with Gram's stain?",
+    "options": [
+      "Rad",
+      "Pink",
+      "Purple",
+      "White"
+    ],
+    "units": [
+      "Grade 9: Microorganisms and Disease",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Bacterial characteristics and staining",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which group of organisms in the ecosystem release nutrients locked up in dead bodies of organisms?",
+    "options": [
+      "Parasites",
+      "Decomposers",
+      "Autotrophs",
+      "Carnivores"
+    ],
+    "units": [
+      "Grade 10: Conservation of Natural Resources",
+      "Grade 9: Environment",
+      "Grade 12: Ecology",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Ecological roles and nutrient cycling",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following are the two major constituents of eukaryotic chromosomes?",
+    "options": [
+      "DNA and RNA",
+      "DNA and protein",
+      "DNA and carbohydrate",
+      "RNA and lipid"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Genetics"
+    ],
+    "topic": "Chromosomal structure",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which one of the following crops has its center of origin and diversity in Ethiopia has became a leading international commodity of commerce?",
+    "options": [
+      "A. Teff",
+      "B. Enset",
+      "C. Coffee",
+      "D. Anchote"
+    ],
+    "units": [
+      "Grade 9 Environment"
+    ],
+    "topic": "Plants of Ethiopia; crops",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which group of animal has the highest number of total and endemic species in Ethiopia ",
+    "options": [
+      "A. Amphibians",
+      "B. Birds",
+      "C. Mammals",
+      "D. Reptiles"
+    ],
+    "units": [
+      "Grade 9 Environment",
+      "Grade 9 Classification",
+      "Grade 11 Characteristics of Animals"
+    ],
+    "topic": "Ethiopian Wildlife; Animal classification",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "What is the molecule that supplies the quickest and suitable source of energy to cells?",
+    "options": [
+      "A. Lactose",
+      "B. Sucrose",
+      "C. ATP",
+      "D. Lipid"
+    ],
+    "units": [
+      "Grade 10 Human Biology and Health",
+      "Grade 9 Cell Biology",
+      "Grade 12 Microorganisms"
+    ],
+    "topic": "Cell metabolism; Energy production",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "A carbohydrate compound is known to have 12 carbon atoms in the whole molecule. What could this compound be?",
+    "options": [
+      "A. A polypeptid",
+      "B. A disaccharide",
+      "C. A monosaccharide",
+      "D. A polysaccharide"
+    ],
+    "units": [
+      "Grade 9 Cell Biology",
+      "Grade 10 Food Making and Growth in Plants"
+    ],
+    "topic": "Carbohydrates; Sugar molecules",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "Among the following organisms, which one belongs to the prokaryotes?",
+    "options": [
+      "A. Paramecium",
+      "B. Streptococcus",
+      "C. Spirogyra",
+      "D. Tapeworm"
+    ],
+    "units": [
+      "Grade 9 Micro-organisms and Disease",
+      "Grade 11 Genetics"
+    ],
+    "topic": "Prokaryotic cells; Bacteria",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which of the following is consistent with the understanding of human evolution?",
+    "options": [
+      "A. Bipedalism was never important in human evolution.",
+      "B. Larger brain size had no contribute to the evolution of the human species.",
+      "C. Human ancestry hand no relation whatsoever with that of the chimpanzees",
+      "D. Fossils of Lucy and Ardi provided evidence for human origin."
+    ],
+    "units": [
+      "Grade 12 Evolution",
+      "Grade 11 Characteristics of Animals",
+      "Grade10 Heredity"
+    ],
+    "topic": "Human evolution; Evolutionary milestones",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Baby ostriches tend to follow the first moving object that they see as they hatch out of the eggs. What kind of animal behaviour does this demonstrate?",
+    "options": [
+      "A. Positive taxis",
+      "B. Innate behavior",
+      "C. Positive kinesis",
+      "D. Learned behavior"
+    ],
+    "units": [
+      "Grade 12 Behaviour",
+      "Grade 11 Characteristics of Animals"
+    ],
+    "topic": "Animal behaviour; Instinctive behaviour",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "Which of the following true about mutations that occur in normal body cells?",
+    "options": [
+      "A. They never lead to cancerous cells.",
+      "B. They never pass to the next generation",
+      "C. They never damage the affected cells.",
+      "D. There is no way that they kill the affected cells."
+    ],
+    "units": [
+      "Grade 10 Human Biology and Health",
+      "Grade 9 The Human Body Systems",
+      "Grade 11 Genetics",
+      "Grade 12 Evolution"
+    ],
+    "topic": "Mutations; Cellular effects",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "What is the processes called when two bacteria directly contact cell to cell and exchange their genetic information?",
+    "options": [
+      "A. Conjugation",
+      "B. Transformation",
+      "C. Co-transformation",
+      "D. Transduction"
+    ],
+    "units": [
+      "Grade 11 Genetics",
+      "Grade 12 Microorganisms"
+    ],
+    "topic": "Genetic exchange in bacteria; Conjugation",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Why is it that mutations are considered as one of the raw materials of evolution?",
+    "options": [
+      "A. They contribute to new variations in organism",
+      "B. They are usually related to the environment in which they appear",
+      "C. They are mostly beneficial to the organism in which they appear",
+      "D. They usually become the causes for species extinction"
+    ],
+    "units": [
+      "Grade 10 Heredity",
+      "Grade 11 Genetics",
+      "Grade 12 Genetics",
+      "Grade 12 Evolution"
+    ],
+    "topic": "Mutations; Evolutionary significance",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following is formulated as a possible outcome of an experiment?",
+    "options": [
+      "A. Hypothesis",
+      "B. Prediction",
+      "C. Data analysis",
+      "D. Recording the data"
+    ],
+    "units": [
+      "Grade 9: Biology and Technology",
+      "Grade 10: Biotechnology"
+    ],
+    "topic": "Scientific Method",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "If certain food stuff gave a positive result with Benedict's test only after it was hydrolysed with hydrochloric acid, which of the following substances could it be?",
+    "options": [
+      "A. Non-reducing sugar",
+      "B. Nucleic acid",
+      "C. Lipid",
+      "D. Proteins"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Carbohydrates and Hydrolysis",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "In scientific method, what is the importance of a background research for a given problem?",
+    "options": [
+      "A. To formulate a hypothesis",
+      "B. To make a prediction",
+      "C. To prepare report of the result",
+      "D. To make a conclusion"
+    ],
+    "units": [
+      "Grade 9: Biology and Technology",
+      "Grade 10: Biotechnology"
+    ],
+    "topic": "Background Research in Scientific Method",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following is NOT true about mitochondria and chloroplasts?",
+    "options": [
+      "A. Both contain chlorophyll",
+      "B. Both contain nucleic acid",
+      "C. Both have double membrane",
+      "D. Both transduce energy"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Enzymes",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Organelles and Their Functions",
+    "bloom_level": "Analyzing"
+  },
+  {
+    "question": "Which of the following molecules is NOT a polymer?",
+    "options": [
+      "A. Protein",
+      "B. Lipid",
+      "C. RNA",
+      "D. Starch"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 10: Conservation of Natural Resources",
+      "Grade 11: Biology and Technology"
+    ],
+    "topic": "Biological Molecules and Polymers",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "What does it mean when biologists express the cell membrane as a unit membrane?",
+    "options": [
+      "A. A cell is covered by a single membrane.",
+      "B. A membrane is only one lipid layer thick",
+      "C. All cells have essentially similar membrane.",
+      "D. A membrane is covered by a single layer of protein."
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 10: Biotechnology",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Cell Membrane Structure",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following classes of molecules CANNOT pass easily across the cell membrane by simple diffusion?",
+    "options": [
+      "A. Small non-polar molecules",
+      "B. Lipid soluble molecules",
+      "C. Non-polar molecules",
+      "D. polar molecules"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Membrane Permeability and Diffusion",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "Which of the following substance has a shape which is similar to that of the substrate of an enzyme?",
+    "options": [
+      "A. The reaction product",
+      "B. A competitive inhibitor",
+      "C. A cofactor",
+      "D. An allosteric inhibitor"
+    ],
+    "units": [
+      "Grade 11: Enzymes",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Enzyme Inhibitors and Substrate Specificity",
+    "bloom_level": "Analyzing"
+  },
+  {
+    "question": "At which level of structural organization do proteins have the alpha helix shape?",
+    "options": [
+      "A. Primary structure",
+      "B. Secondary structure",
+      "C. Tertiary structure",
+      "D. Quaternary structure"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 10: Biotechnology",
+      "Grade 11: Characteristics of Animals"
+    ],
+    "topic": "Protein Structure",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Among the following scientists who contributed to the cell theory, identify the one who stated that a cell can arise only from another cell like it.",
+    "options": [
+      "A. Robert Hooke",
+      "B. Theodor Schwann",
+      "C. Matthias Schleiden",
+      "D. Rudolf Virchow"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Characteristics of Animals"
+    ],
+    "topic": "Cell Theory and Scientists",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which of the following modes of transport is used by cell to move substance against their concentration gradients?",
+    "options": [
+      "Osmosis",
+      "Simple diffusion",
+      "Facilitated diffusion",
+      "Active transport"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Transport mechanisms across cell membranes",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which of the following features makes human T-lymphocyte cells more vulnerable to HIV attack? Presence of:",
+    "options": [
+      "Cell membrane.",
+      "DNA on the chromosomes.",
+      "CD4 on the membrane surface",
+      "Pores in the cell membrane"
+    ],
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "HIV infection mechanism",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which one of the following terms refers to how fast an enzyme acts on its substrate?",
+    "options": [
+      "Turn over number",
+      "Substrate number",
+      "Enzyme number",
+      "Product number"
+    ],
+    "units": [
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Enzyme kinetics",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which of the following factor determines the rate at which organelle settle out of cell homogenate if spun in a centrifuge?",
+    "options": [
+      "Mass of the organelle",
+      "Function of the organelle in the cell.",
+      "Location of the organelle in the cell",
+      "Thickness of the membrane covering the organelle"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 10: Biotechnology"
+    ],
+    "topic": "Cell fractionation and centrifuge",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which one of the following classes of organic molecule is the least important source of energy for cellular respiration?",
+    "options": [
+      "Nucleic acids",
+      "Lipids",
+      "Carbohydrates",
+      "Proteins"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Cellular respiration and energy sources",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "Which one of the following processes has a decreasing effect on the concentration of atmospheric carbon dioxide?",
+    "options": [
+      "Cellular respiration",
+      "Combustion of fossil fuels",
+      "Decomposition of dead organism",
+      "Photosynthesis"
+    ],
+    "units": [
+      "Grade 9: Environment",
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 12: Ecology",
+      "Grade 12: Climate Change"
+    ],
+    "topic": "Carbon cycle and atmospheric carbon dioxide",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following is NOT true about instinctive behaviour?",
+    "options": [
+      "It can be developed further through learning",
+      "It is triggered by a key stimulus",
+      "It has a fixed action pattern.",
+      "It is adaptive for the species"
+    ],
+    "units": [
+      "Grade 12: Behaviour"
+    ],
+    "topic": "Instinctive and learned behaviors",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "In which of the following ways do retroviruses differ from other RNA viruses?",
+    "options": [
+      "Their genetic materials is DNA.",
+      "Their genetic materials is RNA.",
+      "They copy RNA to DNA molecule",
+      "They copy RNA from DNA molecule"
+    ],
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Retrovirus replication",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following group of micro-organisms does not contain parasitic members?",
+    "options": [
+      "Bacteria",
+      "Algae",
+      "Fungi",
+      "Protozoa"
+    ],
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Microorganisms and parasitism",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which of the following is NOT the correct characteristics of tropical rainforests?",
+    "options": [
+      "Low biodiversity",
+      "High temperature",
+      "Heavy precipitation",
+      "Trees of different heights"
+    ],
+    "units": [
+      "Grade 9: Environment",
+      "Grade 11: Population and Natural Resources",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Tropical rainforest biomes and characteristics",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "From evolutionary point of view, which of the following animals is expected to have haemoglobin proteins that are least similar to that of human? Options: Ape, Cow, Chicken, Frog",
+    "options": [
+      "Ape",
+      "Cow",
+      "Chicken",
+      "Frog"
+    ],
+    "units": [
+      "Grade 9: Classification",
+      "Grade 9: Environment",
+      "Grade 12: Evolution"
+    ],
+    "topic": "Evolutionary relationships and protein similarity",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "For what purpose do molecular biologists use the technology known as polymerase chain reaction or PCR? Options: To insert DNA into plasmids., To insert plasmids into bacteria., To multiply copies of DNA molecule., To produce DNA from RNA.",
+    "options": [
+      "To insert DNA into plasmids",
+      "To insert plasmids into bacteria",
+      "To multiply copies of DNA molecule",
+      "To produce DNA from RNA"
+    ],
+    "units": [
+      "Grade 9: Biology and Technology",
+      "Grade 10: Biotechnology",
+      "Grade 11: Biology and Technology",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Polymerase Chain Reaction",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Suppose when you first enter a room you notice an unpleasant smell which you eventually forget about its presence, what is this behaviour called? Options: Latent learning, Insight learning, Habituation, Operant conditioning.",
+    "options": [
+      "Latent learning",
+      "Insight learning",
+      "Habituation",
+      "Operant conditioning"
+    ],
+    "units": [
+      "Grade 12: Behaviour"
+    ],
+    "topic": "Types of learning and behaviour",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "Which of the following is an evolutionary requirement for two sub-populations of species to evolve into independent species? Options: Free exchange of genes, Geographic isolation, Free migration between populations, Absence of natural selection",
+    "options": [
+      "Free exchange of genes",
+      "Geographic isolation",
+      "Free migration between populations",
+      "Absence of natural selection"
+    ],
+    "units": [
+      "Grade 9: Environment",
+      "Grade 12: Evolution"
+    ],
+    "topic": "Speciation and genetic isolation",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "What does a restriction enzyme do? Options: Restricts transcription, Cuts DNA at specific sites, Prevents DNA from replicating, Hydrolyses the DNA molecule",
+    "options": [
+      "Restricts transcription",
+      "Cuts DNA at specific sites",
+      "Prevents DNA from replicating",
+      "Hydrolyses the DNA molecule"
+    ],
+    "units": [
+      "Grade 9: Biology and Technology",
+      "Grade 10: Biotechnology",
+      "Grade 11: Biology and Technology",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Restriction enzymes",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which element is found in nucleic acids? Options: Calcium, Iron, Magnesium, Phosphorus",
+    "options": [
+      "Calcium",
+      "Iron",
+      "Magnesium",
+      "Phosphorus"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 12: Genetics"
+    ],
+    "topic": "Composition of nucleic acids",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "From where do plants get most of their nutrients? Options: Chlorophyll, Soil, Light, Atmosphere",
+    "options": [
+      "Chlorophyll",
+      "Soil",
+      "Light",
+      "Atmosphere"
+    ],
+    "units": [
+      "Grade 10: Food Making and Growth"
+    ],
+    "topic": "Plant nutrition",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "What do you call a group of genetically identical plants produced by vegetative reproduction? Options: Family, Clone, Hybrid, Genus",
+    "options": [
+      "Family",
+      "Clone",
+      "Hybrid",
+      "Genus"
+    ],
+    "units": [
+      "Grade 10: Food Making and Growth in Plants"
+    ],
+    "topic": "Vegetative reproduction and cloning",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "What is the base found in RNA in place of thymine of DNA ? Options: Cytosine, Guanine, Thymine, Uracil",
+    "options": [
+      "Cytosine",
+      "Guanine",
+      "Thymine",
+      "Uracil"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 10: Biotechnology",
+      "Grade 12: Genetics"
+    ],
+    "topic": "RNA structure and composition",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "The most complex structure of proteins is called Options: Primary structure, Secondary structure, Tertiary structure, Quaternary structure",
+    "options": [
+      "Primary structure",
+      "Secondary structure",
+      "Tertiary structure",
+      "Quaternary structure"
+    ],
+    "units": [
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Protein structure",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which one of the following is the smallest of all? Options: A red blood cell, A virus, A bacterium, An amoeba",
+    "options": [
+      "A red blood cell",
+      "A virus",
+      "A bacterium",
+      "An amoeba"
+    ],
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 9: Cell Biology"
+    ],
+    "topic": "Basic Cell Structure and Microorganisms",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "What is the ultimate source of all scientific knowledge? Options: Observation, Guessing, Trial and error, Observation and experimentation",
+    "options": [
+      "Observation",
+      "Guessing",
+      "Trial and error",
+      "Observation and experimentation"
+    ],
+    "units": [
+      "Grade 9: Biology and Technology"
+    ],
+    "topic": "Scientific inquiry and philosophy of science",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "The optimum temperature of enzymes found in thermophilic bacteria is: Options: Lower than for enzymes in the human body., Higher than for enzymes in the human body., The same as enzymes found in human body., Lower than enzymes found in warm blooded animals.",
+    "options": [
+      "Lower than for enzymes in the human body.",
+      "Higher than for enzymes in the human body.",
+      "The same as enzymes found in human body.",
+      "Lower than enzymes found in warm blooded animals."
+    ],
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Properties of enzymes",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "A cow was found to yield much higher than any of the breeds of the parental cattle. What could be the most probable reason for this ? Options: Dominant genes, Hybrid vigour, Recessive genes, Co-dominance genes",
+    "options": [
+      "Dominant genes",
+      "Hybrid vigour",
+      "Recessive genes",
+      "Co-dominance genes"
+    ],
+    "units": [
+      "Grade 10: Heredity",
+      "Grade 12: Evolution",
+      "Grade 11: Genetics"
+    ],
+    "topic": "Biotechnology, hybridization and genetic engineering",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "In the formation of a macromolecule, what type of reaction would join two subunits together? Options: Hydrolysis reaction, Dehydration reaction, Denturaiton reaction, Hydrophobic reaction",
+    "options": [
+      "Hydrolysis reaction",
+      "Dehydration reaction",
+      "Denturaiton reaction",
+      "Hydrophobic reaction"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Enzymes",
+      "Grade 12: Genetics"
+    ],
+    "topic": " macromolecule formation",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which are the four most abundant elements in living cells? Options: Carbon, oxygen, sulphur, phosphorus., Carbon, oxygen, hydrogen, nitrogen., Carbon, oxygen, nitrogen, sulphur., Carbon, oxygen, sulphur, magnesium.",
+    "options": [
+      "Carbon, oxygen, sulphur, phosphorus.",
+      "Carbon, oxygen, hydrogen, nitrogen.",
+      "Carbon, oxygen, nitrogen, sulphur.",
+      "Carbon, oxygen, sulphur, magnesium."
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: The Human Body Systems",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Biological molecules and chemical composition",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "When the F1 hybrid of a monohybrid cross is back crossed with the homozygous recessive parent, what percentage of the offspring would be homozygous recessive? Options: 0 %, 25 %, 50 %, 75",
+    "options": [
+      "0 %",
+      "25%",
+      "50 %",
+      "75 %"
+    ],
+    "units": [
+      "Grade 10: Heredity",
+      "Grade 11: Genetics"
+    ],
+    "topic": "Genetic Inheritance",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "which of the following is an inorganic molecule? Options: CaCo3, CH4, C6H22O11, C18H36O2",
+    "options": [
+      "CaCo3",
+      "CH4",
+      "C6H22O11",
+      "C18H36O2"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Bio-molecules",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which of the following expression is more related to the phase 'survival of the fittest'? Options: Natural selection, Mendelian inheritance, Gene mutation, Inheritance of acquired characteristics",
+    "options": [
+      "Natural selection",
+      "Mendelian inheritance",
+      "Gene mutation",
+      "Inheritance of acquired characteristics"
+    ],
+    "units": [
+      "Grade 12: Evolution"
+    ],
+    "topic": "Theory of Natural Selection",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "To which group of organic compounds do the triglycerides and waxes belong? Options: Carbohydrate, Proteins, Lipids, Vitamins",
+    "options": [
+      "Carbohydrate",
+      "Proteins",
+      "Lipids",
+      "Vitamins"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 10: Human Biology and Health",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Organic and Inorganic Compounds"
+  },
+  {
+    "question": "What did Francesco Redi prove through his scientific experiment?",
+    "options": [
+      "Maggots appear spontaneously on foods placed anywhere.",
+      "Maggots do not appear in foods kept in jars that are protected with a cover.",
+      "Maggots do not appear in foods kept in open jars",
+      "flies appear spontaneously on rotting meat kept in closed or open jars alike."
+    ],
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 11: Biology and Technology",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "The contributions of scientists to our understanding of microorganisms and disease",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which one of the following shows the feeding methods of decomposers?",
+    "options": [
+      "Saprobiotic nutrition",
+      "Autotrophic nutrition",
+      "Parasitic nutrition",
+      "Intracellular digestion"
+    ],
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 10: Conservation of Natural Resources",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Decomposers and their role in the ecosystem",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "What happens when the carrying capacity of an ecosystem is reached?",
+    "options": [
+      "Excretory product accumulates and population numbers increase.",
+      "Population numbers decline rapidly.",
+      "Population numbers remain more or less constant.",
+      "Resources are plentiful and populations shoot up."
+    ],
+    "units": [
+      "Grade 9: Environment",
+      "Grade 11: Population and Natural Resources",
+      "Grade 12: Ecology"
+    ],
+    "topic": "The concept of carrying capacity",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "In which industrial products is pyruvate fermentation by yeast practically applied?",
+    "options": [
+      "Brewing beer",
+      "Swiss cheese making",
+      "Production of vinegar",
+      "Yoghurt making"
+    ],
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 10: Biotechnology",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Fermentation processes and their applications in biotechnology.",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "If a substance that weighs 2000 grams and has a half-life of 100 years is left with only 250 grams, for how long has the radioactive decaying activity been undergoing?",
+    "options": [
+      "200 years",
+      "250 years",
+      "300 years",
+      "500 years"
+    ],
+    "units": [
+      "Grade 12: Climate Change"
+    ],
+    "topic": "Half-life and radioactive decay",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "What does an ethnologist study?",
+    "options": [
+      "Insect diets",
+      "Soil types",
+      "Fossil fuel",
+      "animal behavior"
+    ],
+    "units": [
+      "Grade 12: Behaviour"
+    ],
+    "topic": "Branches of biology and their focuses",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which one of the following is a biotic factor operating within an ecosystem?",
+    "options": [
+      "The amount of helium gas in the air",
+      "The rate of flow of water in a river",
+      "The carnivores that consume other animals",
+      "The type of climate in a given region"
+    ],
+    "units": [
+      "Grade 9: Environment",
+      "Grade 11: Population and Natural Resources",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Biotic and abiotic factors in an ecosystem.",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "When athletes take part in short distance running, how do the cells generate most of the energy that is quickly needed?",
+    "options": [
+      "Aerobic respiration in muscle cells",
+      "Mitochondrial respiration in any cells",
+      "Anaerobic respiration in muscle cells",
+      "Yeast fermentation in the stomach."
+    ],
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 10: Human Biology and Health"
+    ],
+    "topic": "Energy systems in the human body",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "What do you call the reasoning technique in science where general principle are used to analyse specific cases?",
+    "options": [
+      "Induction",
+      "Deduction",
+      "Pseudo-deduction",
+      "Pseudo-induction"
+    ],
+    "units": [
+      "Grade 9: Biology and Technology"
+    ],
+    "topic": "Scientific reasoning techniques",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "If the rate of an enzyme catalysed reaction remains constant even when more substrate is added to the reaction, which of the following might be the reason?",
+    "options": [
+      "Saturation of the enzyme",
+      "Inactivation of the enzyme",
+      "Inhibition of enzyme-substrate complex formation",
+      "loss of substrate specificity by the enzyme"
+    ],
+    "units": [
+      "Grade 10: Biotechnology",
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Enzyme dynamics and kinetics",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following will primarily happen if the enzymes in the lysosomes of a cell are defective?",
+    "options": [
+      "Cellular debris will not be removed",
+      "Chromosome replication will cease",
+      "ATP production will stop",
+      "Diffusion process will stop"
+    ],
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Organelle Functions, Autophagy",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following is true about all proteins?",
+    "options": [
+      "They are twenty amino acids long",
+      "They are globular in shape",
+      "They perform the same function",
+      "The monomers are held together by peptide bonds"
+    ],
+    "units": [
+      "Grade 9: Cell Biology"
+    ],
+    "topic": "Protein Structure and Function",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which of the properties of water allows mosquito larvae to hang themselves down into the water from the water surface?",
+    "options": [
+      "Its high specific heat capacity",
+      "Its high latent heat of vaporization",
+      "Its high surface tension",
+      "Its low density in solid state"
+    ],
+    "units": [
+      "Grade 9: Cell Biology"
+    ],
+    "topic": "Water Properties",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "Which of the following properties of enzymes makes it possible that a single enzyme molecule can act on many substrate molecules?",
+    "options": [
+      "Enzymes are proteins",
+      "Enzymes lower the energy of activation",
+      "Enzymes are reused over and over again",
+      "Enzymes are substrate specific"
+    ],
+    "units": [
+      "Grade 9: Enzymes",
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Enzyme Action",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "The T-lymphocyte cells of AIDS patients are destroyed by:",
+    "options": [
+      "Multiplication of HIV inside the cell",
+      "Infection of opportunistic organisms",
+      "The immune system of the host organism itself",
+      "The CD4 receptors on the cell surface"
+    ],
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 11: The Human Body Systems",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Immune System, Viral Infections",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which stage in the life cycle of HIV is disrupted if AIDS patients are treated with a drug that has protease inhibiting activity?",
+    "options": [
+      "Entry of the virus into the host",
+      "Conversion of viral RNA to DNA",
+      "Integration of viral DNA into host DNA",
+      "Assembly of viral parts into whole virus"
+    ],
+    "units": [
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Viral Replication",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Of the following four cells whose surface area to volume ratio is given which cell can more efficiently transport its needs of materials across the cell surface?",
+    "options": [
+      "24:8 ratio",
+      "54:27 ratio",
+      "96:64 ratio",
+      "150:125 ratio"
+    ],
+    "units": [
+      "Grade 9: Cell Biology"
+    ],
+    "topic": "Cell Size and Transport",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "Cells immediately use the energy that electrons lose as they pass along the chain of electron carriers to:",
+    "options": [
+      "Produce ATP",
+      "Pump protons",
+      "Spin the rotor of ATP synthase",
+      "reduce NAD"
+    ],
+    "units": [
+      "Grade 9: Cell Biology"
+    ],
+    "topic": "Cellular Respiration",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following is a routine method used by clinics to test people for HIV infection?",
+    "options": [
+      "Microscopic examination for the virus",
+      "Counting the number of white blood cells",
+      "Testing for human anti-HIV antibody",
+      "Measuring the amount of haemoglobin"
+    ],
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Diagnostic Methods",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which of the following is NOT true about the nature of the first form of organisms on earth? They were",
+    "options": [
+      "Prokaryotic",
+      "Unicellular",
+      "aerobic",
+      "anaerobic"
+    ],
+    "units": [
+      "Grade 9: Classification",
+      "Grade 12: Evolution"
+    ],
+    "topic": "Origin of Life, Early Earth Conditions",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Suppose a fossil initially contains 100,000 atoms of a certain radioactive element whose half-life is 10,000 years. After how many years would the number of the atoms be 12,500?",
+    "options": [
+      "A. Ten thousand years",
+      "B. Twenty thousand years",
+      "C. Thirty thousand years",
+      "D. Forty thousand years"
+    ],
+    "units": [
+      "Grade 12: Evolution"
+    ],
+    "topic": "Radioactive Decay and Half-life",
+    "bloom_level": "Applying"
+  },
+  {
+    "question": "The following are Simpson's Index of species diversity calculated for four areas containing the same types of species. Which index value is from the area dominated relatively by a fewer number of species?",
+    "options": [
+      "A. 8.00",
+      "B. 6.00",
+      "C. 3.5",
+      "D. 2.5"
+    ],
+    "units": [
+      "Grade 12: Ecology"
+    ],
+    "topic": "Species Diversity and Simpson's Index",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following happens in both cyclic and non-cyclic photophosphorylation?",
+    "options": [
+      "A. ATP is formed",
+      "B. Oxygen is generated",
+      "C. NADP is reduced",
+      "D. water molecule splits"
+    ],
+    "units": [
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Photosynthesis and Photophosphorylation",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which of the following is NOT a true characteristic of the populations of most of the developing countries of the world?",
+    "options": [
+      "A. High fertility rate",
+      "B. Increasing population size",
+      "C. More number of old people than young people",
+      "D. Birth rate greater than mortality rate"
+    ],
+    "units": [
+      "Grade 11: Population and Natural Resources, Grade 9: Human Biology and Health",
+      "Grade 10: Conservation of Natural Resources"
+    ],
+    "topic": "Population Dynamics and Demographics",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following come first in the course of organic evolution?",
+    "options": [
+      "A. Photosynthetic organisms",
+      "B. Free oxygen in the atmosphere",
+      "C. Land plants",
+      "D. Multicellular organisms"
+    ],
+    "units": [
+      "Grade 12: Evolution"
+    ],
+    "topic": "Timeline of Evolutionary Events",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Choose the step that comes at the last step in the scientific method.",
+    "options": [
+      "A. Proposing the research hypothesis",
+      "B. Formulation of a scientific theory",
+      "C. Conducting experiments",
+      "D. Making predictions"
+    ],
+    "units": [
+      "Grade 9: Biology and Technology",
+      "Grade 11: Biology and Technology"
+    ],
+    "topic": "Scientific Method",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following is NOT true about C4 plants such as tef (Eragrostis tef)",
+    "options": [
+      "A. CO2 is harvested during the night time",
+      "B. The bundle sheath cells contain chloroplasts",
+      "C. Light-dependent reaction occurs in mesophyll cells",
+      "D. Chloroplasts of bundle sheath cells lack thylakoids"
+    ],
+    "units": [
+      "Grade 12: Ecology"
+    ],
+    "topic": "C4 Photosynthesis",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "What is the reason that plants do not use nitrogen directly from the atmosphere?",
+    "options": [
+      "A. Nitrogen concentration is low in the atmosphere",
+      "B. The molecular size of nitrogen is too large to pass through the stomata",
+      "C. Nitrogen can enter plants only through the root hairs",
+      "D. Plants lack the necessary process to use elementary nitrogen"
+    ],
+    "units": [
+      "Grade 10: Biotechnology",
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Nitrogen Fixation and Plant Nutrition",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "What does the fermentation of glucose by yeast normally yield?",
+    "options": [
+      "A. Lactic acid, CO2, and 2 ATP",
+      "B. CO2, H2O, and 36 ATP",
+      "C. Alcohol, CO2, and 2 ATP",
+      "D. Alcohol, CO2, and 36 ATP"
+    ],
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Fermentation and Cellular Respiration",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which hormone promotes human sleepfulness in darkness and controls the sleep-wake cycle?",
+    "options": [
+      "A. Insulin",
+      "B. Adrenaline",
+      "C. Melatonin",
+      "D. Thyroxin"
+    ],
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 10: Human Biology and Health",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Hormonal Control of Sleep",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which two nitrogenous bases belong to the purines?",
+    "options": [
+      "Adenine and thymine",
+      "Adenine and guanine",
+      "Guanine and cytosine",
+      "Thymine and uracil"
+    ],
+    "units": [
+      "Cell Biology",
+      "Genetics"
+    ],
+    "topic": "Nucleic Acids and Genetic Material",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which of the following is true?",
+    "options": [
+      "Recessive alleles are only expressed in the homozygote.",
+      "Dominant alleles are expressed only in the heterozygote.",
+      "Recessive alleles are expressed in the heterozygote.",
+      "Genetically modified organisms are never used to manufacture vaccines"
+    ],
+    "units": [
+      "Heredity",
+      "Genetics"
+    ],
+    "topic": "Basic genetic principles",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following is a functional group of a fatty acid?",
+    "options": [
+      "A ketone group",
+      "An aldehyde group",
+      "An amino group",
+      "A carboxyl group"
+    ],
+    "units": [
+      "Food Making and Growth in Plants",
+      "Biotechnology"
+    ],
+    "topic": "Structure and Function of Biomolecules",
+    "bloom_level": "Remembering"
+  },
+  {
+    "question": "Which one of the following is an example of an orientational innate behaviour?",
+    "options": [
+      "Kinases in woodlice",
+      "Blinking of the eyes",
+      "Sudden withdrawal of limbs from hot object",
+      "Nest building by weaver birds"
+    ],
+    "units": [
+      "Behaviour"
+    ],
+    "topic": "Innate Behaviours",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "One of the following is true about bacteriophages that have lysogenic life cycle.",
+    "options": [
+      "They are RNA viruses",
+      "They integrate their nucleic acid into that of the host",
+      "They multiply in the host immediately after infection",
+      "Progeny viruses are released by chronic release method"
+    ],
+    "units": [
+      "Microorganisms",
+      "Micro-organisms and Disease"
+    ],
+    "topic": "Types of Viruses",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "In Pavlov's experiment on the classical conditioning of dogs, what does the reaction of the dogs to the sound of the bell represent?",
+    "options": [
+      "The conditioned stimulus",
+      "The conditioned response",
+      "The unconditioned stimulus",
+      "The unconditioned response"
+    ],
+    "units": [
+      "Behaviour"
+    ],
+    "topic": "Classical Conditioning",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "What is the purpose of the infolding of the inner-membrane of the mitochondrion?",
+    "options": [
+      "Increasing the photosynthetic capacity of the cell.",
+      "Speeding up the loss of CO2 during fermentation.",
+      "Speeding up the process of glycolysis",
+      "Increasing the surface area for ATP production"
+    ],
+    "units": [
+      "Cell Biology"
+    ],
+    "topic": "Mitochondrial Structure and Function",
+    "bloom_level": "Understanding"
+  },
+  {
+    "question": "Which of the following is a worthwhile biological problem for scientific investigation?",
+    "options": [
+      "Estimation of the amount of carbon in a forest ecosystem",
+      "How a crying dog can tell who among elders of the village is going to die next.",
+      "How witchcrafts inflict bad health by cursing a healthy person",
+      "How the traditional medicine men/women cure a possessed person"
+    ],
+    "units": [
+      "Conservation of Natural Resources",
+      "Environment",
+      "Evolution"
+    ],
+    "topic": "Scientific Research and Validity",
+    "bloom_level": "Evaluating"
+  },
+  {
+    "question": "Which of the following biomass of the earth has the greatest diversity of species?",
+    "options": [
+      "Deciduous forest",
+      "Tropical rain forest",
+      "Desert",
+      "Tundra"
+    ],
+    "units": [
+      "Popluation and Natural Resources",
+      "Conservation of Natural Resources"
+    ],
+    "topic": "Biodiversity and Ecosystems",
+    "bloom_level": "Remembering"
+  }
+]

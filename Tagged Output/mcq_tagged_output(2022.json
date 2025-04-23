@@ -1,0 +1,1218 @@
+[
+  {
+    "question": "Bacterial cell wall is unique due to its",
+    "units": [
+      "Cell Biology",
+      "Micro-organisms and Disease",
+      "Microorganisms"
+    ],
+    "topic": "Bacterial Cell Structure",
+    "bloom_level": "Understanding",
+    "options": [
+      "chemical composition.",
+      "freely permeability.",
+      "selective permeability.",
+      "mechanical support."
+    ]
+  },
+  {
+    "question": "Which genus of bacteria oxidize hydrogen sulphide to sulphate and make sulphate ions available to be taken by plant roots from the soil?",
+    "units": [
+      "Micro-organisms and Disease",
+      "Microorganisms"
+    ],
+    "topic": "Bacterial Metabolism and Nutrient Cycling",
+    "bloom_level": "Remembering",
+    "options": [
+      "Klebsiella",
+      "Desulphovibrio.",
+      "Azotobacter",
+      "Thiobacillus"
+    ]
+  },
+  {
+    "question": "Which one of the following diseases is caused by food poisoning bacteria?",
+    "units": [
+      "Micro-organisms and Disease",
+      "Human Biology and Health",
+      "Cell Biology"
+    ],
+    "topic": "Bacterial Infections and Foodborne Illnesses",
+    "bloom_level": "Remembering",
+    "options": [
+      "Candidiasis",
+      "Salmonellosis",
+      "Tuberculosis",
+      "Pneumonia"
+    ]
+  },
+  {
+    "question": "Unlike free living cells, viruses are completely",
+    "units": [
+      "Micro-organisms and Disease",
+      "Microorganisms"
+    ],
+    "topic": "Viral Characteristics and Replication",
+    "bloom_level": "Analyzing",
+    "options": [
+      "pathogenic to a living cell.",
+      "mutual to a living cell.",
+      "parasitic to a living cell.",
+      "harmful to a living cell."
+    ]
+  },
+  {
+    "question": "Why are vaccines important? Because they help to",
+    "units": [
+      "Micro-organisms and Disease",
+      "Human Biology and Health"
+    ],
+    "topic": "Immune System and Vaccination",
+    "bloom_level": "Applying",
+    "options": [
+      "trigger the immune system.",
+      "kill pathogens.",
+      "prevent functional diseases.",
+      "heal wounds."
+    ]
+  },
+  {
+    "question": "Assume you wanted to demonstrate compatibility of blood groups. You took four test tubes labeled O, A, B, and AB based on the blood group that each test tube contains. Then you added unknown blood sample into each test tube and no agglutination was observed in each test tube. From this, you can conclude that the unknown blood sample was",
+    "units": [
+      "Grade 9: Human Biology and Health"
+    ],
+    "topic": "Blood Typing and Compatibility",
+    "bloom_level": "Applying",
+    "options": [
+      "blood group B.",
+      "blood group O.",
+      "blood group A.",
+      "blood group AB."
+    ]
+  },
+  {
+    "question": "Which one of the following diseases increases the likelihood of contracting HIV?",
+    "units": [
+      "Grade 9: Micro-organisms and Disease"
+    ],
+    "topic": "HIV and Co-infections",
+    "bloom_level": "Remembering",
+    "options": [
+      "Syphilis",
+      "Chancroid",
+      "Tuberculosis",
+      "Gonorrhoea"
+    ]
+  },
+  {
+    "question": "Even though pasteurization is a technique used to heat milk, beer and other foods, it cannot preserve food unspoiled for years because it",
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Pasteurization",
+    "bloom_level": "Understanding",
+    "options": [
+      "cannot kill pathogenic microorganisms.",
+      "reduces the nutritional content of the food.",
+      "is conducted in containers that are not properly sealed.",
+      "uses mild temperature that kills most but not all bacteria."
+    ]
+  },
+  {
+    "question": "Which one of the following statements is correct about the binomial nomenclature?",
+    "units": [
+      "Grade 9: Classification"
+    ],
+    "topic": "Binomial Nomenclature",
+    "bloom_level": "Remembering",
+    "options": [
+      "The genus name is written in full while the species name is abbreviated.",
+      "Both genus and species names are capitalized and italicized when printed.",
+      "The first letter of genus name is capitalized while the species name is written in small letters.",
+      "The genus name is written in English while the species name is written in Latin."
+    ]
+  },
+  {
+    "question": "During gas exchange between the alveoli and blood capillaries, oxygen is absorbed by the blood while carbon dioxide is removed. This opposite direction of gas exchange occurs due to",
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Alveolar Gas Exchange",
+    "bloom_level": "Understanding",
+    "options": [
+      "difference in the concentration gradient of oxygen and carbon dioxide.",
+      "difference in the molecular size of oxygen and carbon dioxide.",
+      "thicker layer of the capillaries.",
+      "the small surface area of the alveoli."
+    ]
+  },
+  {
+    "question": "Identify the correct statement about the effect of exercise on breathing rate.",
+    "units": [
+      "Grade 9: Human Biology and Health"
+    ],
+    "topic": "Effects of exercise on the respiratory system",
+    "bloom_level": "Remembering",
+    "options": [
+      "The vital capacity of the lungs decrease during heavy exercise.",
+      "The tidal volume of air at rest is greater than the tidal volume of air during exercise.",
+      "Fast and deep breathing are the result of demanding less oxygen.",
+      "Exercise and getting fit makes the lungs efficient."
+    ]
+  },
+  {
+    "question": "The following is a list of functions of the components of blood.",
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Components and functions of blood",
+    "bloom_level": "Applying",
+    "options": [
+      "Transport of oxygen",
+      "Fight against diseases",
+      "Cause blood clotting",
+      "Which one of the following is a correct order of blood components responsible for the above functions respectively?"
+    ]
+  },
+  {
+    "question": "What is the cause of the back flow of blood into the atria from the ventricles?",
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Heart function and blood flow",
+    "bloom_level": "Understanding",
+    "options": [
+      "aorta.",
+      "pulmonary artery.",
+      "pulmonary vein.",
+      "valves"
+    ]
+  },
+  {
+    "question": "The capillaries are blood vessels that have thin wall and large surface area since their function is",
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Functions of capillaries",
+    "bloom_level": "Remembering",
+    "options": [
+      "transport of oxygenated blood.",
+      "exchange of substances.",
+      "to return blood to the heart.",
+      "transport of deoxygenated blood."
+    ]
+  },
+  {
+    "question": "During image formation, light is refracted twice before it is focused on the retina.",
+    "units": [
+      "Grade 9: Human Biology and Health"
+    ],
+    "topic": "Light refraction",
+    "bloom_level": "Remembering",
+    "options": [
+      "aqueous humour and lens.",
+      "iris and lens.",
+      "lens and vitrous humour.",
+      "cornea and lens."
+    ]
+  },
+  {
+    "question": "Currently, natural resources are being depleted at increasing rate and waste materials are accumulated and discharged freely into water bodies. What is the best strategy to overcome these problems?",
+    "units": [
+      "Grade 9: Environment",
+      "Grade 10: Conservation of Natural Resources"
+    ],
+    "topic": "Conservation Strategies",
+    "bloom_level": "Applying",
+    "options": [
+      "Decomposition",
+      "Succession",
+      "Fossilization",
+      "Recycling"
+    ]
+  },
+  {
+    "question": "Which stage of the nitrogen cycle needs the role of Rhizobium?",
+    "units": [
+      "Grade 9: Environment"
+    ],
+    "topic": "Nitrogen Cycle",
+    "bloom_level": "Remembering",
+    "options": [
+      "Decomposition",
+      "Denitrification",
+      "Nitrogen fixation",
+      "Nitrification"
+    ]
+  },
+  {
+    "question": "A key aspect in the process of recovery of an ecosystem through succession is that",
+    "units": [
+      "Grade 9: Environment",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Ecological Succession",
+    "bloom_level": "Understanding",
+    "options": [
+      "pioneer species always make the environment better.",
+      "higher organisms colonize the environment first.",
+      "a climax community of lichens and mosses is established at the end.",
+      "pioneer species always tend to be lower animals."
+    ]
+  },
+  {
+    "question": "What are the common plants of the boreal forest?",
+    "units": [
+      "Grade 9: Environment"
+    ],
+    "topic": "Biomes",
+    "bloom_level": "Remembering",
+    "options": [
+      "Deciduous trees",
+      "Conifers",
+      "Mosses",
+      "Epiphytes"
+    ]
+  },
+  {
+    "question": "Which one of the following may NOT be regulated by a plant hormone?",
+    "units": [
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 12: Biotechnology"
+    ],
+    "topic": "Plant Hormones",
+    "bloom_level": "Remembering",
+    "options": [
+      "Seed dispersal",
+      "Cell division",
+      "Cell elongation",
+      "Fruit ripening"
+    ]
+  },
+  {
+    "question": "Bushing of a plant results from",
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 11: Growth in Plants"
+    ],
+    "topic": "Apical dominance and auxin",
+    "bloom_level": "Remembering",
+    "options": [
+      "cancellation of the positive effect of apical dominance.",
+      "removal of the inhibitory effect of auxin.",
+      "decreased production of auxin by side shoots.",
+      "increased production of auxin by the main shoot."
+    ]
+  },
+  {
+    "question": "Actions such as protection of individual species, reduction of pollution, and reduction of deforestation can collectively be taken as methods of",
+    "units": [
+      "Grade 9: Classification",
+      "Grade 9: Environment",
+      "Grade 11: The Human Body Systems",
+      "Grade 11: Behavior",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Biodiversity conservation",
+    "bloom_level": "Understanding",
+    "options": [
+      "agricultural expansion.",
+      "biodiversity conservation.",
+      "fighting global warming.",
+      "fighting soil erosion."
+    ]
+  },
+  {
+    "question": "Which one of the following plants is NOT endemic to Ethiopia?",
+    "units": [],
+    "topic": "Endemic plants of Ethiopia",
+    "bloom_level": "Remembering",
+    "options": [
+      "Mango",
+      "Zigba",
+      "Noug",
+      "Enset"
+    ]
+  },
+  {
+    "question": "Which one of the following national parks is characterized by the presence of wildlife such as elephant, lion, cheetah and giraffe?",
+    "units": [],
+    "topic": "Ethiopian national parks and wildlife",
+    "bloom_level": "Remembering",
+    "options": [
+      "Bale mountains national park",
+      "Awash national park",
+      "Mago national park",
+      "Simien mountains national park"
+    ]
+  },
+  {
+    "question": "In kingdom animalia, which phylum poisons its prey by tentacles that contain stinging cells?",
+    "units": [
+      "Grade 9: Classification",
+      "Grade 11: Characteristics of Animals"
+    ],
+    "topic": "Phylum Coelenterata (Cnidaria)",
+    "bloom_level": "Remembering",
+    "options": [
+      "Nematoda",
+      "Coelenterata",
+      "Annelida",
+      "Porifera"
+    ]
+  },
+  {
+    "question": "Mosses are grouped under division bryophyta because they",
+    "units": [
+      "Grade 9: Classification",
+      "Grade 12: Evolution"
+    ],
+    "topic": "Bryophyta",
+    "bloom_level": "Remembering",
+    "options": [
+      "lack true root system and vascular tissue.",
+      "have true leaves, stems and roots.",
+      "have flat and broad leaves.",
+      "are evergreen and photosynthesize all year round."
+    ]
+  },
+  {
+    "question": "Which one of the following is an adaptation to reduce water loss in plants? Having",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 9: Environment",
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 11: Characteristics of Animals",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Plant Adaptations",
+    "bloom_level": "Understanding",
+    "options": [
+      "a single layered epidermis in leaves",
+      "thin broad leaves",
+      "large and wide stomata",
+      "leaves covered with waxy cuticle"
+    ]
+  },
+  {
+    "question": "Why are arctic animals such as seals, walruses and whales large in body size? To",
+    "units": [
+      "Grade 11: Characteristics of Animals",
+      "Grade 12: Behaviour"
+    ],
+    "topic": "Adaptations in Arctic Animals",
+    "bloom_level": "Applying",
+    "options": [
+      "reduce heat loss",
+      "move in the water bodies easily",
+      "capture their prey without challenges",
+      "increase their surface area"
+    ]
+  },
+  {
+    "question": "The institute of biodiversity conservation is one of the biological research institutes of Ethiopia attempting to conserve the genetic resources of the country. As such, the institute's major research efforts focus on all of the following EXCEPT",
+    "units": [
+      "Grade 9: Conservation of Natural Resources",
+      "Grade 10: Conservation of Natural Resources",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Conservation Practices",
+    "bloom_level": "Analyzing",
+    "options": [
+      "microorganism conservation.",
+      "animal conservation.",
+      "soil conservation.",
+      "plant conservation."
+    ]
+  },
+  {
+    "question": "The importance of stains in microscopic invstigations is explained by their effect in",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Microscopy Techniques",
+    "bloom_level": "Understanding",
+    "options": [
+      "increasing resolution.",
+      "creating contrast.",
+      "increasing magnification.",
+      "decreasing air bubbles."
+    ]
+  },
+  {
+    "question": "One of the following problems can occur if the liver does NOT properly carry out its digestive functions.",
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 10: Human Biology and Health",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Liver Functions in Digestion",
+    "bloom_level": "Understanding",
+    "options": [
+      "Increased alkalinity of the intestine",
+      "Incomplete digestion of polysaccharides",
+      "Partial absorption of digested foods",
+      "Partial digestion of fats"
+    ]
+  },
+  {
+    "question": "Which of the following is the correct order of food substance, enzyme, and breakdown product of the digestive process in the stomach respectively?",
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 10: Human Biology and Health",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Gastric Digestion Process",
+    "bloom_level": "Remembering",
+    "options": [
+      "Starch, lipase, glucose",
+      "Fat, trypsin, glycerol",
+      "Protein, pepsin, amino acid",
+      "Lipid, amylase, fatty acid"
+    ]
+  },
+  {
+    "question": "Assume you are trying to demonstrate breathing movements using artificial lung and you pulled down the rubber sheet. This action of pulling represents which step of the actual breathing process?",
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 10: Human Biology and Health",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Respiratory Mechanism",
+    "bloom_level": "Applying",
+    "options": [
+      "Exhalation and contraction of the diaphragm",
+      "Inhalation and relaxation of the diaphragm",
+      "Inhalation and contraction of the diaphragm",
+      "Exhalation and relaxation of the diaphragm"
+    ]
+  },
+  {
+    "question": "When three fatty acid molecules and a glycerol molecule undergo condensation reaction, they form",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Lipid Synthesis",
+    "bloom_level": "Remembering",
+    "options": [
+      "peptide bond and protein.",
+      "ester bond and triglyceride.",
+      "glycosidic bond and polysaccharide.",
+      "phosphate bond and phospholipid."
+    ]
+  },
+  {
+    "question": "In water, phospholipids become organized into a bilayer. In this configuration, which part of the bilayer faces towards the water?",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Phospholipid Bilayer Structure",
+    "bloom_level": "Understanding",
+    "options": [
+      "Hydrocarbon tail",
+      "Fatty acid tail",
+      "Phosphate head",
+      "Glycerol head"
+    ]
+  },
+  {
+    "question": "Four students wanted to conduct chemical tests on unknown food particles and used the following chemicals and materials. Options: Student A: Test tubes and biuret solution, Student B: Test tubes, ethanol, water, filter paper, Student C: Test tubes, benedict's solution, water bath, Student D: Test tubes and iodine solution",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 9: Biology and Technology",
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 11: Enzymes",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Macromolecule detection",
+    "bloom_level": "Applying",
+    "options": [
+      "Student A: Test tubes and biuret solution",
+      "Student B: Test tubes, ethanol, water, filter paper",
+      "Student C: Test tubes, benedict's solution, water bath",
+      "Student D: Test tubes and iodine solution"
+    ]
+  },
+  {
+    "question": "Niacin is used to make the coenzyme Options: FAD., ADP., NAD., AMP.",
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 10: Human Biology and Health",
+      "Grade 11: Human Body Systems"
+    ],
+    "topic": "Niacin and Coenzymes",
+    "bloom_level": "Remembering",
+    "options": [
+      "FAD.",
+      "ADP.",
+      "NAD.",
+      "AMP."
+    ]
+  },
+  {
+    "question": "The following are reaction types catalyzed by different classes of enzymes. Options: Transfering hydrogen and oxygen atoms, Changing of the molecular form of the substrate, Joining of two molecules by the formation of new bonds, Which classes of enzymes catalyze the above reactions according to their consecutive order?",
+    "units": [
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Enzyme Function",
+    "bloom_level": "Analyzing",
+    "options": [
+      "Transfering hydrogen and oxygen atoms",
+      "Changing of the molecular form of the substrate",
+      "Joining of two molecules by the formation of new bonds",
+      "Which classes of enzymes catalyze the above reactions according to their consecutive order?"
+    ]
+  },
+  {
+    "question": "The hydrogen ions that used to turn the rotor of ATP synthase come from Options: phosphorylation of ADP., oxidation of NADH and FADH2, hydrolysis of ATP., reduction of NADH and FADH2.",
+    "units": [
+      "Grade 11: Human Body Systems",
+      "Grade 12: Climate Change"
+    ],
+    "topic": "ATP Synthesis",
+    "bloom_level": "Understanding",
+    "options": [
+      "phosphorylation of ADP.",
+      "oxidation of NADH and FADH2",
+      "hydrolysis of ATP.",
+      "reduction of NADH and FADH2."
+    ]
+  },
+  {
+    "question": "What triggers fermentation during exercise? Options: Shortage of oxygen, Over activity of respiratory enzymes, Production of ATP beyond the cells demand, Presence of excess glucose",
+    "units": [
+      "Grade 11: The Human Body Systems",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Cellular Respiration: Fermentation",
+    "bloom_level": "Understanding",
+    "options": [
+      "Shortage of oxygen",
+      "Over activity of respiratory enzymes",
+      "Production of ATP beyond the cells demand",
+      "Presence of excess glucose"
+    ]
+  },
+  {
+    "question": "Which of the following processes explains lactate production during anaerobic respiration in animal cells?",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 12: Microorganisms"
+    ],
+    "topic": "Anaerobic Respiration in Animal Cells",
+    "bloom_level": "Remembering",
+    "options": [
+      "Oxidation of pyruvate",
+      "Decarboxylation of pyruvate",
+      "Phosphorylation of pyruvate",
+      "Reduction of pyruvate"
+    ]
+  },
+  {
+    "question": "Which one of the following descriptions holds true for the link reaction of respiration?",
+    "units": [
+      "Grade 9: Cell Biology"
+    ],
+    "topic": "Link Reaction of Cell Respiration",
+    "bloom_level": "Remembering",
+    "options": [
+      "Pyruvate reacts with coenzyme A to form acetyl coenzyme A.",
+      "Glucose is converted to pyruvate through a chain of reactions.",
+      "Hydrogen ion and ATP are synthesized.",
+      "Reduced NAD and reduced FAD are produced."
+    ]
+  },
+  {
+    "question": "Which one of the following is the neo-Darwinian idea of evolution? Evolutionary changes occur due to",
+    "units": [
+      "Grade 12: Evolution"
+    ],
+    "topic": "Evolutionary Theories",
+    "bloom_level": "Understanding",
+    "options": [
+      "inheritance of acquired characteristics.",
+      "natural selection through genetics and behavior.",
+      "use and disuse of anatomical structures.",
+      "competitions between living organisms."
+    ]
+  },
+  {
+    "question": "What is the significance of Australopithecus afarensis in the study of human evolution?",
+    "units": [
+      "Grade 12: Evolution"
+    ],
+    "topic": "Human Evolution",
+    "bloom_level": "Understanding",
+    "options": [
+      "evolution of bipedalism before large brains",
+      "divergent evolution of Homo erectus from Homo hablis",
+      "true common ancestor of chimpanzees and humans",
+      "convergent evolution of Homo neanderthalensis and Homo erectus"
+    ]
+  },
+  {
+    "question": "Instinctive behavior",
+    "units": [
+      "Grade 12: Behaviour"
+    ],
+    "topic": "Types of Behavior",
+    "bloom_level": "Remembering",
+    "options": [
+      "is common to all members of a species.",
+      "varies from individual to individual.",
+      "may be modified by new experiences.",
+      "develops through trial and error."
+    ]
+  },
+  {
+    "question": "Which one of the following statements is an example of latent learning?",
+    "units": [
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 10:Heredity",
+      "Grade 12: Behaviour"
+    ],
+    "topic": "Latent Learning",
+    "bloom_level": "Applying",
+    "options": [
+      "The random movement of woodlice in response to changes in light intensity and humidity.",
+      "Knowledge of a mice about the immediate environment of its burrow may help it escape from predator.",
+      "Foraging bees returning from successful trip dance on the honey comb to recruit others to harvest a new.",
+      "Female baboon turns its buttock toward the dominant male to signify readiness to mate."
+    ]
+  },
+  {
+    "question": "Which one of the following is correct about the action of apoenzymes and coenzymes?",
+    "units": [
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Enzyme Structure and Function",
+    "bloom_level": "Remembering",
+    "options": [
+      "Coenzymes bind with cofactors to form an active enzyme.",
+      "Apoenzymes bind with enzymes to give catalytic activity.",
+      "Both apoenzymes and coenzymes combine with cofactors to form a non-active enzyme.",
+      "Coenzymes bind with enzymes to give catalytic activity."
+    ]
+  },
+  {
+    "question": "Consider the following statements.",
+    "units": [
+      "Grade 12: Behaviour"
+    ],
+    "topic": "Innate Behavior and Instincts",
+    "bloom_level": "Evaluating",
+    "options": [
+      "Genetically determined and common to all members of a species.",
+      "The behavior may be modified by new experiences.",
+      "Behavior is fully functional at the first attempt.",
+      "Generally there is no modification of the behavior."
+    ]
+  },
+  {
+    "question": "Which one of the following is an example of social behavior?",
+    "units": [
+      "Grade 12: Behaviour"
+    ],
+    "topic": "Social Behavior",
+    "bloom_level": "Evaluating",
+    "options": [
+      "Exaggeration of size by fluffing up of feathers",
+      "Singing of frogs on spring nights",
+      "Marking a territory with urine",
+      "Caring for offspring that are not one's own"
+    ]
+  },
+  {
+    "question": "Consider the following reaction.",
+    "units": [
+      "Grade 11: Enzymes"
+    ],
+    "topic": "Enzyme Activity and Mechanism",
+    "bloom_level": "Analyzing",
+    "options": [
+      "Reactant A + Reactant B + Enzyme Intermediate → Product AB + Enzyme?",
+      "At which point are the chemical bonds weakened? At the",
+      "intermediate",
+      "reactant A"
+    ]
+  },
+  {
+    "question": "Assume you wanted to demonstrate a simple reflex action using the knee jerk reflex. You asked a friend to sit with one leg crossed over the other. Options: Which one of the following indicates the correct demonstration?, Pulling down your friend's leg that is followed by downward movement, Hitting your friend on the toes followed by sudden upward movement of the leg, Bending up your friend's leg followed by downward movement of the leg",
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Neuron Pathways of Reflexes",
+    "bloom_level": "Applying",
+    "options": [
+      "Which one of the following indicates the correct demonstration?",
+      "Pulling down your friend's leg that is followed by downward movement",
+      "Hitting your friend on the toes followed by sudden upward movement of the leg",
+      "Bending up your friend's leg followed by downward movement of the leg"
+    ]
+  },
+  {
+    "question": "A finch with an average length beak was not able to obtain insects out of the cracks in the bark of trees as well as one with a longer beak. It was also not able to crush seeds as well as one with a shorter beak. Over time, those with the longer beaks and those with the shorter beaks increased in numbers, while those with average length beaks decreased in number. Which type fo selection has been operated in this scenario? Options: Disruptive, Directional, Behavioral, Stabilising",
+    "units": [
+      "Grade 12: Evolution"
+    ],
+    "topic": "Types of Natural Selection",
+    "bloom_level": "Analyzing",
+    "options": [
+      "Disruptive",
+      "Directional",
+      "Behavioral",
+      "Stabilising"
+    ]
+  },
+  {
+    "question": "The cell theory states that cells Options: contain different organelles with no specialization., have basically different composition., come from pre-existing cells by division., come from non-living objects.",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Cell Theory",
+    "bloom_level": "Remembering",
+    "options": [
+      "contain different organelles with no specialization.",
+      "have basically different composition.",
+      "come from pre-existing cells by division.",
+      "come from non-living objects."
+    ]
+  },
+  {
+    "question": "Which type of chromosome mutation causes leukemia? Options: Duplication, Insertion, Invresion, Deletion",
+    "units": [
+      "Grade 10: Heredity",
+      "Grade 11: Genetics",
+      "Grade 12: Genetics"
+    ],
+    "topic": "Chromosome Mutations",
+    "bloom_level": "Remembering",
+    "options": [
+      "Duplication",
+      "Insertion",
+      "Invresion",
+      "Deletion"
+    ]
+  },
+  {
+    "question": "Which theory of the origin of life states that life has no beginning or ending? Options: Cosmozoan theory, Special creationism, Eternity theory, Biochemical theory",
+    "units": [
+      "Grade 12: Evolution"
+    ],
+    "topic": "Theories on the Origin of Life",
+    "bloom_level": "Remembering",
+    "options": [
+      "Cosmozoan theory",
+      "Special creationism",
+      "Eternity theory",
+      "Biochemical theory"
+    ]
+  },
+  {
+    "question": "Which one of the following is paleontological evidence of evolution? Options: The presence of homologous structures in living organisms, Traces of organisms from the remote past, Similarities in the DNA base sequences of different organisms, Similarities in the development of embryos in different organisms",
+    "units": [
+      "Grade 9: Classification",
+      "Grade 9: Environment",
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 12: Evolution"
+    ],
+    "topic": "Paleontological Evidence of Evolution",
+    "bloom_level": "Remembering",
+    "options": [
+      "The presence of homologous structures in living organisms",
+      "Traces of organisms from the remote past",
+      "Similarities in the DNA base sequences of different organisms",
+      "Similarities in the development of embryos in different organisms"
+    ]
+  },
+  {
+    "question": "A colour blind daughter can be born when the Options: mother is colour blind and the father is normal., father is colour blind and the mother is normal., mother is carrier and the father is colour blind., father is normal and the mother is carrier.",
+    "units": [
+      "Grade 10: Heredity",
+      "Grade 11: Genetics",
+      "Grade 12: Genetics"
+    ],
+    "topic": "Sex-Linked Inheritance and Color Blindness",
+    "bloom_level": "Applying",
+    "options": [
+      "mother is colour blind and the father is normal.",
+      "father is colour blind and the mother is normal.",
+      "mother is carrier and the father is colour blind.",
+      "father is normal and the mother is carrier."
+    ]
+  },
+  {
+    "question": "A farmer cut off several regions of a stem near to the buds of a plant...Which one of the following is correct about this experiment?",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 10: Biotechnology",
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 11: Biology and Technology",
+      "Grade 11: Population and Natural Resources"
+    ],
+    "topic": "Plant Propagation and Cloning",
+    "bloom_level": "Analyzing",
+    "options": [
+      "phenotypically and genotypically different from the parent plant and from each other.",
+      "genetically and phenotypically identical to the parent plant and to each other.",
+      "genotypically identical but phenotypically different from the parent.",
+      "phenotypically identical but genetically different from each other."
+    ]
+  },
+  {
+    "question": "During DNA replication Options: ...",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 10: Biotechnology",
+      "Grade 11: Genes",
+      "Grade 12: Genetics"
+    ],
+    "topic": "DNA Replication Mechanism",
+    "bloom_level": "Understanding",
+    "options": [
+      "DNA helicase transports nucleotides that are used to build the new DNA.",
+      "the base sequence in the new DNA will be slightly changed from the parent DNA.",
+      "DNA polymerase assembles new nucleotides into a new strand.",
+      "the parent DNA will become different from the daughter DNA."
+    ]
+  },
+  {
+    "question": "With four different bases to work with...This is because the DNA code is ...",
+    "units": [
+      "Grade 11: Genes",
+      "Grade 12: Genetics"
+    ],
+    "topic": "Protein Synthesis",
+    "bloom_level": "Understanding",
+    "options": [
+      "degenerate code.",
+      "non-overlapping code.",
+      "semi conservative code.",
+      "universal code."
+    ]
+  },
+  {
+    "question": "If mRNA brings the code 'UGA' into the ribosome",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 12: Genetics"
+    ],
+    "topic": "Translation and Codons",
+    "bloom_level": "Remembering",
+    "options": [
+      "translation ceases and protein synthesis terminates.",
+      "tRNA will bring the amino acid methionine.",
+      "ribosome will initiate protein synthesis.",
+      "tRNA will bring \"UGA\" anticodon."
+    ]
+  },
+  {
+    "question": "Breakdown of the thick spongy wall of the uterus at the end of the menstrual cycle is associated with the",
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Menstrual Cycle and Hormonal Changes",
+    "bloom_level": "Understanding",
+    "options": [
+      "formation of the corpus luteum.",
+      "maturation of the follicle.",
+      "decrease in progesterone and estrogen concentration.",
+      "increase in oestrogen and progesterone concentration."
+    ]
+  },
+  {
+    "question": "The first incubation period of HIV is characterized by a duration of",
+    "units": [
+      "Grade 9: Micro-organisms and Disease"
+    ],
+    "topic": "HIV Infection Progression",
+    "bloom_level": "Remembering",
+    "options": [
+      "20 years before all the symptoms appear in well-nourished people.",
+      "2 weeks to produce enough antibodies.",
+      "3-12 weeks when mild symptoms are manifested.",
+      "2-3 years for the progress of infection to AIDS."
+    ]
+  },
+  {
+    "question": "Which one of the following is a behavioral method of temperature regulation in homoiotherms?",
+    "units": [
+      "Grade 10: Human Biology and Health"
+    ],
+    "topic": "Homeostasis and Temperature Regulation",
+    "bloom_level": "Remembering",
+    "options": [
+      "Piloerection",
+      "Licking",
+      "Aestivation",
+      "Vasodilation"
+    ]
+  },
+  {
+    "question": "What will happen if the water content of the blood is too high?",
+    "units": [
+      "Grade 9: Human Biology and Health",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Osmotic Balance and Water Regulation",
+    "bloom_level": "Understanding",
+    "options": [
+      "The second coiled tubule of the kidney becomes more permeable.",
+      "Antidiuretic hormone secretion decreases.",
+      "Osmoreceptors stimulate pituitary gland to release ADH.",
+      "The kidney reabsorbs more water back into the blood."
+    ]
+  },
+  {
+    "question": "The movement of water from the roots up to the top leaves of tall trees is carried out by",
+    "units": [
+      "Grade 9: Environment",
+      "Grade 9: Human Biology and Health",
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 10: Food Making and Growth in Plants"
+    ],
+    "topic": "Water Transport in Plants",
+    "bloom_level": "Understanding",
+    "options": [
+      "loss of water by transpiration and its replacement by osmosis.",
+      "active transport in the roots and osmosis in the leaves.",
+      "the low cohesive and adhesive forces of water in the xylem.",
+      "active transport in both the roots and leaves."
+    ]
+  },
+  {
+    "question": "From the following options, which one contains the steps of writing a scientific report in the correct order?",
+    "units": [
+      "Grade 9: Biology and Technology",
+      "Grade 11: Biology and Technology"
+    ],
+    "topic": "Scientific Reporting",
+    "bloom_level": "Remembering",
+    "options": [
+      "Title → Prediction → Hypothesis → Procedure → Evaluation → Conclusion → Results → Acknowledgement",
+      "Title → Hypothesis → Prediction → Procedure → Results → Conclusion → Evaluation → Acknowledgement",
+      "Title → Hypothesis → Prediction → Evaluation → Results → Procedure → Conclusion → Acknowledgement",
+      "Title → Hypothesis → Procedure → Prediction → Results → Conclusion → Evaluation → Acknowledgement"
+    ]
+  },
+  {
+    "question": "What type of force is responsible if a stool solution is placed in a centrifuge, spins the tube at high speed and the solid particles are forced to settle down at the bottom?",
+    "units": [
+      "Grade 12: Ecology"
+    ],
+    "topic": "Force in Centrifuge Operation",
+    "bloom_level": "Understanding",
+    "options": [
+      "Cohesive force",
+      "Adhesive force",
+      "Centripetal force",
+      "Gravitational force"
+    ]
+  },
+  {
+    "question": "Ten percent of attendants of a wedding ceremony were sick just after having lunch at the ceremony. What should a student do first to prove scientifically that the sickness was actually linked to the food eaten at the ceremony?",
+    "units": [
+      "Grade 9: Classification",
+      "Grade 9: Environment",
+      "Grade 10: Conservation of Natural Resources",
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 10: Human Biology and Health",
+      "Grade 12: Climate Change"
+    ],
+    "topic": "Outbreak Investigation",
+    "bloom_level": "Applying",
+    "options": [
+      "give drugs to the sick individuals before they contaminate others.",
+      "take food sample to a laboratory and analyze the presence of toxin.",
+      "ask herself why ten percent of the attendants were sicked.",
+      "take stool sample of the sick individuals and analyze the presence of toxins."
+    ]
+  },
+  {
+    "question": "Which one of the following importance of water is directly related with its ideal viscosity?",
+    "units": [
+      "Grade 9: Environment",
+      "Grade 10: Food Making and Growth in Plants",
+      "Grade 11: The Human Body Systems",
+      "Grade 9: Micro-organisms and Disease",
+      "Grade 10: Human Biology and Health",
+      "Grade 11: Characteristics of Animals"
+    ],
+    "topic": "Physical Properties of Water",
+    "bloom_level": "Understanding",
+    "options": [
+      "Transport medium",
+      "Habitat for aquatic animals",
+      "Reactant in photosynthesis",
+      "Reaction medium"
+    ]
+  },
+  {
+    "question": "Which property of water prevents ponds from drying during the long dry season? High: viscosity property, latent heat of vaporization, transparent ability, surface tension",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 9: Environment",
+      "Grade 12: Ecology"
+    ],
+    "topic": "Properties of Water and Freshwater Ecosystems",
+    "bloom_level": "Remembering",
+    "options": [
+      "viscosity property",
+      "latent heat of vaporization",
+      "transparent ability",
+      "surface tension"
+    ]
+  },
+  {
+    "question": "Which one of the following is NOT the function of the plasma membrane in eukaryotic cells?",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Characteristics of Animals",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Functions of the Plasma Membrane",
+    "bloom_level": "Understanding",
+    "options": [
+      "Isolating the cell from the external environment",
+      "Transferring chemical energy from carbohydrates to ATP",
+      "Responding to external signals",
+      "Exchanging materials and information"
+    ]
+  },
+  {
+    "question": "Which one of the following is correct with respect to the structural components of the plasma membrane?",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 11: Characteristics of Animals",
+      "Grade 11: The Human Body Systems"
+    ],
+    "topic": "Plasma Membrane Structure Components and Composition",
+    "bloom_level": "Remembering",
+    "options": [
+      "Integral proteins are found inserted in the lipid bilayer.",
+      "Peripheral proteins are located outside the lipid bilayer.",
+      "Channel proteins cover the outer layer of the lipid bilayer.",
+      "Glycoproteins are found on the cytoplasmic side of the cell membrane."
+    ]
+  },
+  {
+    "question": "Which one of the following statements best describes the mechanisms by which meiosis brings about variation?.",
+    "units": [
+      "Grade 9: Heredity",
+      "Grade 10: Heredity",
+      "Grade 11: Genetics",
+      "Grade 12: Genetics"
+    ],
+    "topic": "Meiosis Variation Processes",
+    "bloom_level": "Understanding",
+    "options": [
+      "contain chromosomes with several genes.",
+      "have the highest number of chromosomes.",
+      "breed and keep in large numbers easily.",
+      "complete their life cycle within one month."
+    ]
+  },
+  {
+    "question": "Why Drosophila melanogaster are considered ideal for genetic experiments? Because they",
+    "units": [
+      "Grade 11: Genetics",
+      "Grade 12: Genetics"
+    ],
+    "topic": "Genetic Research and Experimentation Models (Model Organisms)",
+    "bloom_level": "Understanding",
+    "options": [
+      "independent assortment and crossing over.",
+      "frequent spontaneous mutations.",
+      "variations in the content of the cytoplasm between the cells.",
+      "reduction division that leads to haploid cell formation."
+    ]
+  },
+  {
+    "question": "1. In the tropical regions, where there is higher temperature, which one of the following is most likely to take place in the C3 plant's? Rubisco binds with",
+    "units": [
+      "Grade 9: Environment",
+      "Grade 9: Environment",
+      "Grade 10: Food Making and Growth in Plants"
+    ],
+    "topic": "Photo Respiration",
+    "bloom_level": "Understanding",
+    "options": [
+      "CO2 to produce glucose and water.",
+      "O2 to produce GP and phosphoglycolate.",
+      "GP to produce lipid.",
+      "H2O to produce TP."
+    ]
+  },
+  {
+    "question": "2. During the light-independent reactions of photosynthesis",
+    "units": [
+      "Grade 10: Food Making and Growth in Plants"
+    ],
+    "topic": "Calvin Cycle",
+    "bloom_level": "Understanding",
+    "options": [
+      "glucose is directly produced from GP.",
+      "RuBP reacts with CO₂ to directly form TP.",
+      "some of the GP is used to regenerate RuBP.",
+      "GP is reduced to TP by reduced NADP."
+    ]
+  },
+  {
+    "question": "3. The suitability of the structural arrangement of a chloroplast in relation to its function can be indicated by the fact that",
+    "units": [
+      "Grade 9: Cell Biology",
+      "Grade 10: Food Making and Growth in Plants"
+    ],
+    "topic": "Chloroplast Structure and Function",
+    "bloom_level": "Analyzing",
+    "options": [
+      "all pigments are floating around the solution of the stroma.",
+      "all pigments in the photosystem are linked to the electron transport chain.",
+      "carotenoids are used as a reaction center from which electrons are excited.",
+      "the different pigments absorb the same wavelength of light."
+    ]
+  },
+  {
+    "question": "4. Which one of the following events occurs during the day time in the CAM photosynthetic pathway?",
+    "units": [
+      "Grade 10: Food Making and Growth in Plants"
+    ],
+    "topic": "Crassulacean Acid Metabolism (CAM)",
+    "bloom_level": "Remembering",
+    "options": [
+      "CO2 reacts with malate.",
+      "The stomata open to allow CO2.",
+      "CO2 enters into Calvin cycle.",
+      "Oxaloacetate is formed."
+    ]
+  },
+  {
+    "question": "5. How many turns of the light independent reaction cycle are required to make one molecule of triose phosphate?",
+    "units": [
+      "Grade 10: Food Making and Growth in Plants"
+    ],
+    "topic": "Calvin Cycle",
+    "bloom_level": "Remembering",
+    "options": [
+      "3",
+      "2",
+      "6",
+      "4"
+    ]
+  }
+]
