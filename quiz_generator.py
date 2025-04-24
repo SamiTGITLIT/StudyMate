@@ -1,6 +1,6 @@
 import lmstudio as lms
 
-# Initialize the LM Studio model
+
 model = lms.llm("mistral-7b-instruct-v0.3")
 
 def generate_mcq(unit_content, cognitive_level, num_questions=5):
